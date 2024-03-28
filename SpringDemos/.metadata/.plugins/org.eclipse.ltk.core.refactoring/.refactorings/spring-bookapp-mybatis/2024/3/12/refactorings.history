@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.bookapp.exception&apos; to &apos;spring-bookapp-jdbc/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;spring-bookapp-mybatis&apos;&#x0D;&#x0A;- Destination element: &apos;spring-bookapp-jdbc/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;spring-bookapp-mybatis/src/main/java/com.bookapp.exception&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=spring-bookapp-jdbc/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.bookapp.exception" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1710997029492" version="1.0"/>
+</session>

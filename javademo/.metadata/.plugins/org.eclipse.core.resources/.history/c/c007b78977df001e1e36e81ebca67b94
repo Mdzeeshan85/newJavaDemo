@@ -1,0 +1,16 @@
+package com.voya.exceptions;
+
+public class InvalidNumExpection extends RuntimeException {
+
+	public InvalidNumExpection() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public InvalidNumExpection(String message) {
+		super(message);
+		// TODO Auto-generated constructor stub
+	}
+	
+
+}

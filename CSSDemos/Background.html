@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p{
+            background-color: aqua;
+            background-image: url("styles/images/Annotation\ 2024-03-12\ 103412.png");
+            background-attachment: fixed;
+            background-repeat: repeat;
+            background-position: top left;
+        }
+    </style>
+</head>
+<body>
+    <p>
+        Java is the most popular programming language. This Java programming tutorial will help you learn the Java Programming language from scratch. It covers topics from Java basics to advanced topics such as overview, history, installations, basic input/output, conditional & control statements, arrays, classes, inheritances, method overloading & overriding, exceptional handling, exception handling, and many more. This tutorial on Java programming has been prepared by Java experts and is useful for students and developers as well.
+
+After completing this tutorial, you will find yourself at a moderate level of expertise in Java Programming, from where you can elevate yourself to the next levels.
+Our Java programming tutorial provides various examples to explain the concepts. To compile and execute the given Java programming examples in your browser itself, we have provided Online Java Compiler. You can Edit and Execute almost all the examples directly from your browser without the need to set up your development environment.
+
+Try to click the icon run button to run the following Java code to print conventional "Hello, World!" using Java Programming
+Java is a MUST to learn programming language for students and working professionals to become a great Software Engineer specially when they are working in Software Development Domain. If you will conduct a servey about the best programming language around, Java is sure to come up.
+
+Java is fairly easy programming language to learn, so if you are starting to learn any programming language then Java could be your great choice. There's also plenty of Java tools that make it easy for developers and beginners to use. There are many other good reasons which makes Java as the first choice of any programmer:
+This Java tutorial will help both students as well as working professionals who want to develop applications using Java technologies like banking systems, support systems, information systems, web websites, mobile apps, personal blogs, etc. We recommend reading this tutorial, in the sequence listed in the left-side menu.
+
+Today, Java is one of the most demanding programming languages and so it has become an essential language to learn for anyone involved in the software application development process including Software Developers, Software Designers, Project Managers, etc.
+Though we have tried our best to present the Core Java concepts in a simple and easy way, still before you start learning Java, it is assumed that the readers have a reasonable exposure to any programming environment and knowledge of basic concepts such as variables, commands, syntax, etc.
+The latest release of the Java Standard Edition is Java SE 18. With the advancement of Java and its widespread popularity, multiple configurations were built to suit various types of platforms. For example: J2EE for Enterprise Applications, J2ME for Mobile Applications.
+
+The new J2 versions were renamed as Java SE, Java EE, and Java ME respectively. Java is guaranteed to be Write Once, Run Anywhere.
+Java is very high in demand and all the major companies are recruiting Java Programmers to develop their Desktop, Web and Mobile applications.
+
+Today a Java Programmer with 3-5 years of experience is asking for around $120,000 annual package and this is the most demanding programming language in America. Though it can vary depending on the location of the Job. Following are the great companies who are using Java and they need good Java Programmers:
+
+So, you could be the next potential employee for any of these major companies. We have developed a great learning material for Java which will help you prepare for the technical interviews and certification exams based on Java. So, start learning Java using this simple and effective tutorial from anywhere and anytime absolutely at your pace.
+
+Java Online Quizzes
+This Java tutorial helps you prepare for technical interviews and certification exams. We have provided various quizzes and assignments to check your learning level. Given quizzes have multiple choice type of questions and their answers with short explanation.
+
+Following is a sample quiz, try to attempt any of the given answers:
+Java Virtual Machine is a virtual machine, an abstract computer that has its own ISA, own memory, stack, heap, etc. It is an engine that manages system memory and drives Java code or applications in run-time environment. It runs on the host Operating system and places its demands for resources to it.
+
+The JVM is a specification, and can have different implementations, as long as they adhere to the specs. The specs can be found in the below link − https://docs.oracle.com
+
+Oracle has its own JVM implementation (called the HotSpot JVM), the IBM has its own (the J9 JVM, for example).
+
+The operations defined inside the spec are given below (source − Oracle JVM Specs, see the above link) −
+On a 32b machine, only the 32b version of the JVM can be installed. On a 64b machine, the user has a choice between the 32b and the 64b version. But there are certain nuances to this that can affect how our Java applications perform.
+
+If the Java application uses less than 4G of memory, we should use the 32b JVM even on 64b machines. This is because memory references in this case would only be 32b and manipulating them would be less expensive than manipulating 64b addresses. In this case, the 64b JVM would perform worse even if we are using OOPS (ordinary object pointers). Using OOPS, the JVM can use 32b addresses in the 64b JVM. However, manipulating them would be slower than the real 32b references since the underlying native references would still be 64b.
+
+If our application is going to consume more than 4G memory, we will have to use the 64b version as the 32b references can address no more than 4G of memory. We can have both the versions installed on the same machine and can switch between them using the PATH variable.
+The lifecycle of a Java object is managed by the JVM. Once an object is created by the programmer, we need not worry about the rest of its lifecycle. The JVM will automatically find those objects that are not in use anymore and reclaim their memory from the heap.
+
+Garbage collection is a major operation that JVM does and tuning it for our needs can give a massive performance boosts to our application. There are a variety of garbage collection algorithms that are provided by modern JVMs. We need to be aware of our application’s needs to decide on which algorithm to use.
+
+You cannot deallocate an object programmatically in Java, like you can do in non-GC languages like C and C++. Therefore, you cannot have dangling references in Java. However, you may have null references (references that refer to an area of memory where the JVM won’t ever store objects). Whenever a null reference is used, the JVM throws a NullPointerException.
+
+Note that while it is rare to find memory leaks in Java programs thanks to the GC, they do happen. We will create a memory leak at the end of this chapter.
+
+The following GCs are used in modern JVMs
+A class is a blueprint from which individual objects are created (or, we can say a class is a data type of an object type). In Java, everything is related to classes and objects. Each class has its methods and attributes that can be accessed and manipulated through the objects.
+
+For example, if you want to create a class for students. In that case, "Student" will be a class, and student records (like student1, student2, etc) will be objects.
+
+We can also consider that class is a factory (user-defined blueprint) to produce objects.
+An object is a variable of the type class, it is a basic component of an object-oriented programming system. A class has the methods and data members (attributes), these methods and data members are accessed through an object. Thus, an object is an instance of a class.
+
+If we consider the real world, we can find many objects around us, cars, dogs, humans, etc. All these objects have a state and a behavior.
+
+If we consider a dog, then its state is - name, breed, and color, and the behavior is - barking, wagging the tail, and running.
+
+If you compare the software object with a real-world object, they have very similar characteristics. Software objects also have a state and a behavior. A software object's state is stored in fields and behavior is shown via methods. So, in software development, methods operate on the internal state of an object, and the object-to-object communication is done via methods.
+
+Creating (Declaring) a Java Object
+As mentioned previously, a class provides the blueprints for objects. So basically, an object is created from a class. In Java, the new keyword is used to create new objects.
+The object of the wrapper class contains or wraps its respective primitive data type. Converting primitive data types into object is called boxing, and this is taken care by the compiler. Therefore, while using a wrapper class you just need to pass the value of the primitive data type to the constructor of the Wrapper class.
+
+And the Wrapper object will be converted back to a primitive data type, and this process is called unboxing. The Number class is part of the java.lang package.
+Java is the most popular programming language. This Java programming tutorial will help you learn the Java Programming language from scratch. It covers topics from Java basics to advanced topics such as overview, history, installations, basic input/output, conditional & control statements, arrays, classes, inheritances, method overloading & overriding, exceptional handling, exception handling, and many more. This tutorial on Java programming has been prepared by Java experts and is useful for students and developers as well.
+
+After completing this tutorial, you will find yourself at a moderate level of expertise in Java Programming, from where you can elevate yourself to the next levels.
+Our Java programming tutorial provides various examples to explain the concepts. To compile and execute the given Java programming examples in your browser itself, we have provided Online Java Compiler. You can Edit and Execute almost all the examples directly from your browser without the need to set up your development environment.
+
+Try to click the icon run button to run the following Java code to print conventional "Hello, World!" using Java Programming
+Java is a MUST to learn programming language for students and working professionals to become a great Software Engineer specially when they are working in Software Development Domain. If you will conduct a servey about the best programming language around, Java is sure to come up.
+
+Java is fairly easy programming language to learn, so if you are starting to learn any programming language then Java could be your great choice. There's also plenty of Java tools that make it easy for developers and beginners to use. There are many other good reasons which makes Java as the first choice of any programmer:
+This Java tutorial will help both students as well as working professionals who want to develop applications using Java technologies like banking systems, support systems, information systems, web websites, mobile apps, personal blogs, etc. We recommend reading this tutorial, in the sequence listed in the left-side menu.
+
+Today, Java is one of the most demanding programming languages and so it has become an essential language to learn for anyone involved in the software application development process including Software Developers, Software Designers, Project Managers, etc.
+Though we have tried our best to present the Core Java concepts in a simple and easy way, still before you start learning Java, it is assumed that the readers have a reasonable exposure to any programming environment and knowledge of basic concepts such as variables, commands, syntax, etc.
+The latest release of the Java Standard Edition is Java SE 18. With the advancement of Java and its widespread popularity, multiple configurations were built to suit various types of platforms. For example: J2EE for Enterprise Applications, J2ME for Mobile Applications.
+
+The new J2 versions were renamed as Java SE, Java EE, and Java ME respectively. Java is guaranteed to be Write Once, Run Anywhere.
+Java is very high in demand and all the major companies are recruiting Java Programmers to develop their Desktop, Web and Mobile applications.
+
+Today a Java Programmer with 3-5 years of experience is asking for around $120,000 annual package and this is the most demanding programming language in America. Though it can vary depending on the location of the Job. Following are the great companies who are using Java and they need good Java Programmers:
+
+So, you could be the next potential employee for any of these major companies. We have developed a great learning material for Java which will help you prepare for the technical interviews and certification exams based on Java. So, start learning Java using this simple and effective tutorial from anywhere and anytime absolutely at your pace.
+
+Java Online Quizzes
+This Java tutorial helps you prepare for technical interviews and certification exams. We have provided various quizzes and assignments to check your learning level. Given quizzes have multiple choice type of questions and their answers with short explanation.
+
+Following is a sample quiz, try to attempt any of the given answers:
+Java Virtual Machine is a virtual machine, an abstract computer that has its own ISA, own memory, stack, heap, etc. It is an engine that manages system memory and drives Java code or applications in run-time environment. It runs on the host Operating system and places its demands for resources to it.
+
+The JVM is a specification, and can have different implementations, as long as they adhere to the specs. The specs can be found in the below link − https://docs.oracle.com
+
+Oracle has its own JVM implementation (called the HotSpot JVM), the IBM has its own (the J9 JVM, for example).
+
+The operations defined inside the spec are given below (source − Oracle JVM Specs, see the above link) −
+On a 32b machine, only the 32b version of the JVM can be installed. On a 64b machine, the user has a choice between the 32b and the 64b version. But there are certain nuances to this that can affect how our Java applications perform.
+
+If the Java application uses less than 4G of memory, we should use the 32b JVM even on 64b machines. This is because memory references in this case would only be 32b and manipulating them would be less expensive than manipulating 64b addresses. In this case, the 64b JVM would perform worse even if we are using OOPS (ordinary object pointers). Using OOPS, the JVM can use 32b addresses in the 64b JVM. However, manipulating them would be slower than the real 32b references since the underlying native references would still be 64b.
+
+If our application is going to consume more than 4G memory, we will have to use the 64b version as the 32b references can address no more than 4G of memory. We can have both the versions installed on the same machine and can switch between them using the PATH variable.
+The lifecycle of a Java object is managed by the JVM. Once an object is created by the programmer, we need not worry about the rest of its lifecycle. The JVM will automatically find those objects that are not in use anymore and reclaim their memory from the heap.
+
+Garbage collection is a major operation that JVM does and tuning it for our needs can give a massive performance boosts to our application. There are a variety of garbage collection algorithms that are provided by modern JVMs. We need to be aware of our application’s needs to decide on which algorithm to use.
+
+You cannot deallocate an object programmatically in Java, like you can do in non-GC languages like C and C++. Therefore, you cannot have dangling references in Java. However, you may have null references (references that refer to an area of memory where the JVM won’t ever store objects). Whenever a null reference is used, the JVM throws a NullPointerException.
+
+Note that while it is rare to find memory leaks in Java programs thanks to the GC, they do happen. We will create a memory leak at the end of this chapter.
+
+The following GCs are used in modern JVMs
+A class is a blueprint from which individual objects are created (or, we can say a class is a data type of an object type). In Java, everything is related to classes and objects. Each class has its methods and attributes that can be accessed and manipulated through the objects.
+
+For example, if you want to create a class for students. In that case, "Student" will be a class, and student records (like student1, student2, etc) will be objects.
+
+We can also consider that class is a factory (user-defined blueprint) to produce objects.
+An object is a variable of the type class, it is a basic component of an object-oriented programming system. A class has the methods and data members (attributes), these methods and data members are accessed through an object. Thus, an object is an instance of a class.
+
+If we consider the real world, we can find many objects around us, cars, dogs, humans, etc. All these objects have a state and a behavior.
+
+If we consider a dog, then its state is - name, breed, and color, and the behavior is - barking, wagging the tail, and running.
+
+If you compare the software object with a real-world object, they have very similar characteristics. Software objects also have a state and a behavior. A software object's state is stored in fields and behavior is shown via methods. So, in software development, methods operate on the internal state of an object, and the object-to-object communication is done via methods.
+
+Creating (Declaring) a Java Object
+As mentioned previously, a class provides the blueprints for objects. So basically, an object 
+</p>
+</body>
+</html>

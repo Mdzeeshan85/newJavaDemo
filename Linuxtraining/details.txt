@@ -1,0 +1,4556 @@
+..:
+total 36
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 12 17:11 CSSDemos/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 12 14:31 HtmlDemos/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 18 12:01 JSPandServlets/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 18 12:01 JspServletsGit/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 25 16:37 Linuxtraining/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 14:32 SpringDemos/
+-rw-r--r-- 1 mohamed.ahmed 1049089 837 Mar 12 10:24 firstdemo.html
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 14:25 intellijdemos/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 14 19:05 intellijdemos1/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 14 13:11 javademo/
+
+../CSSDemos:
+total 57
+-rw-r--r-- 1 mohamed.ahmed 1049089 18543 Mar 12 15:25 Background.html
+-rw-r--r-- 1 mohamed.ahmed 1049089   702 Mar 12 15:38 FontDemo.html
+-rw-r--r-- 1 mohamed.ahmed 1049089   534 Mar 12 17:02 ball.html
+-rw-r--r-- 1 mohamed.ahmed 1049089   756 Mar 12 16:49 boxdemo.html
+-rw-r--r-- 1 mohamed.ahmed 1049089   567 Mar 12 16:51 boxdemo1.html
+-rw-r--r-- 1 mohamed.ahmed 1049089  1214 Mar 12 16:23 classdemo.html
+-rw-r--r-- 1 mohamed.ahmed 1049089   602 Mar 12 17:06 divdemo.html
+-rw-r--r-- 1 mohamed.ahmed 1049089   403 Mar 12 15:08 external.html
+-rw-r--r-- 1 mohamed.ahmed 1049089   640 Mar 12 15:00 internal.html
+-rw-r--r-- 1 mohamed.ahmed 1049089   977 Mar 12 17:17 navbar.html
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 12 15:12 styles/
+-rw-r--r-- 1 mohamed.ahmed 1049089   747 Mar 12 16:33 sudo.html
+
+../CSSDemos/styles:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 267 Mar 12 15:08 Demo.css
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 12 15:13 images/
+
+../CSSDemos/styles/images:
+total 1160
+-rw-r--r-- 1 mohamed.ahmed 1049089 1184848 Mar 12 10:34 Annotation 2024-03-12 103412.png
+
+../HtmlDemos:
+total 37
+-rw-r--r-- 1 mohamed.ahmed 1049089  912 Mar 12 14:08 datalistdemo.html
+-rw-r--r-- 1 mohamed.ahmed 1049089 1198 Mar 12 12:18 emptable.html
+-rw-r--r-- 1 mohamed.ahmed 1049089  252 Mar 12 12:22 final.html
+-rw-r--r-- 1 mohamed.ahmed 1049089 2174 Mar 12 11:03 firstdemo.html
+-rw-r--r-- 1 mohamed.ahmed 1049089 1377 Mar 12 12:25 formdemo.html
+-rw-r--r-- 1 mohamed.ahmed 1049089 1178 Mar 12 14:29 forminputs.html
+-rw-r--r-- 1 mohamed.ahmed 1049089  782 Mar 12 14:45 formoverrides.html
+-rw-r--r-- 1 mohamed.ahmed 1049089 1613 Mar 12 14:16 formtable.html
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 12 11:30 images/
+-rw-r--r-- 1 mohamed.ahmed 1049089  772 Mar 12 12:53 outdemo.html
+-rw-r--r-- 1 mohamed.ahmed 1049089  796 Mar 12 11:47 tabledemo.html
+
+../HtmlDemos/images:
+total 1160
+-rw-r--r-- 1 mohamed.ahmed 1049089 1184848 Mar 12 10:34 Annotation 2024-03-12 103412.png
+
+../JSPandServlets:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:55 Servers/
+
+../JSPandServlets/Servers:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:55 Tomcat v9.0 Server at localhost-config/
+
+../JSPandServlets/Servers/Tomcat v9.0 Server at localhost-config:
+total 212
+-rw-r--r-- 1 mohamed.ahmed 1049089  12954 Mar 20 12:55 catalina.policy
+-rw-r--r-- 1 mohamed.ahmed 1049089   7630 Mar 20 12:55 catalina.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089   1398 Mar 20 12:55 context.xml
+-rw-r--r-- 1 mohamed.ahmed 1049089   7817 Mar 20 15:22 server.xml
+-rw-r--r-- 1 mohamed.ahmed 1049089   2713 Mar 20 12:55 tomcat-users.xml
+-rw-r--r-- 1 mohamed.ahmed 1049089 172944 Mar 20 12:55 web.xml
+
+../JspServletsGit:
+total 36
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 BasicDemo/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:00 DoctorApp/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 DoctorAppMaven/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:00 EmployeeApp/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 EmployeeAppMaven/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:00 FirstDemo/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 JSPDemos/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 MovieAppMaven/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 RequestDispatcherDemo/
+
+../JspServletsGit/BasicDemo:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 12:21 build/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 12:21 src/
+
+../JspServletsGit/BasicDemo/build:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 classes/
+
+../JspServletsGit/BasicDemo/build/classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 com/
+
+../JspServletsGit/BasicDemo/build/classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 voya/
+
+../JspServletsGit/BasicDemo/build/classes/com/voya:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 controllers/
+
+../JspServletsGit/BasicDemo/build/classes/com/voya/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2712 Mar 15 12:20 RegisterServlet.class
+
+../JspServletsGit/BasicDemo/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 12:21 main/
+
+../JspServletsGit/BasicDemo/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 12:36 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 12:22 webapp/
+
+../JspServletsGit/BasicDemo/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 12:36 com/
+
+../JspServletsGit/BasicDemo/src/main/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 12:36 voya/
+
+../JspServletsGit/BasicDemo/src/main/java/com/voya:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 12:36 controllers/
+
+../JspServletsGit/BasicDemo/src/main/java/com/voya/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2033 Mar 13 14:28 RegisterServlet.java
+
+../JspServletsGit/BasicDemo/src/main/webapp:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 13 12:21 META-INF/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 15 10:20 WEB-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 900 Mar 13 13:48 index.jsp
+
+../JspServletsGit/BasicDemo/src/main/webapp/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 39 Mar 13 12:21 MANIFEST.MF
+
+../JspServletsGit/BasicDemo/src/main/webapp/WEB-INF:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 13 12:21 lib/
+-rw-r--r-- 1 mohamed.ahmed 1049089 640 Mar 15 10:20 web.xml
+
+../JspServletsGit/BasicDemo/src/main/webapp/WEB-INF/lib:
+total 0
+
+../JspServletsGit/DoctorApp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 17:54 build/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 17:54 src/
+
+../JspServletsGit/DoctorApp/build:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 classes/
+
+../JspServletsGit/DoctorApp/build/classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 com/
+
+../JspServletsGit/DoctorApp/build/classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 doctorapp/
+
+../JspServletsGit/DoctorApp/build/classes/com/doctorapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 controllers/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 model/
+
+../JspServletsGit/DoctorApp/build/classes/com/doctorapp/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2914 Mar 15 12:20 DoctorServlet.class
+
+../JspServletsGit/DoctorApp/build/classes/com/doctorapp/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2405 Mar 15 12:20 Doctor.class
+
+../JspServletsGit/DoctorApp/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 17:54 main/
+
+../JspServletsGit/DoctorApp/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 17:56 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 09:26 webapp/
+
+../JspServletsGit/DoctorApp/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 17:56 com/
+
+../JspServletsGit/DoctorApp/src/main/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 18:06 doctorapp/
+
+../JspServletsGit/DoctorApp/src/main/java/com/doctorapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 18:06 controllers/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 17:56 model/
+
+../JspServletsGit/DoctorApp/src/main/java/com/doctorapp/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2510 Mar 14 09:41 DoctorServlet.java
+
+../JspServletsGit/DoctorApp/src/main/java/com/doctorapp/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1661 Mar 14 09:41 Doctor.java
+
+../JspServletsGit/DoctorApp/src/main/webapp:
+total 8
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 13 17:54 META-INF/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 13 17:54 WEB-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 783 Mar 14 09:42 index.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 840 Mar 14 09:41 success1.jsp
+
+../JspServletsGit/DoctorApp/src/main/webapp/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 39 Mar 13 17:54 MANIFEST.MF
+
+../JspServletsGit/DoctorApp/src/main/webapp/WEB-INF:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 17:54 lib/
+
+../JspServletsGit/DoctorApp/src/main/webapp/WEB-INF/lib:
+total 0
+
+../JspServletsGit/DoctorAppMaven:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 18 12:01 Users/
+-rw-r--r-- 1 mohamed.ahmed 1049089 801 Mar 15 12:11 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 15 12:05 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 15 12:05 target/
+
+../JspServletsGit/DoctorAppMaven/Users:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 mohamed.ahmed/
+
+../JspServletsGit/DoctorAppMaven/Users/mohamed.ahmed:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 training/
+
+../JspServletsGit/DoctorAppMaven/Users/mohamed.ahmed/training:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 JSPandServlets/
+
+../JspServletsGit/DoctorAppMaven/Users/mohamed.ahmed/training/JSPandServlets:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 DoctorAppMaven/
+
+../JspServletsGit/DoctorAppMaven/Users/mohamed.ahmed/training/JSPandServlets/DoctorAppMaven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 target/
+
+../JspServletsGit/DoctorAppMaven/Users/mohamed.ahmed/training/JSPandServlets/DoctorAppMaven/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 m2e-wtp/
+
+../JspServletsGit/DoctorAppMaven/Users/mohamed.ahmed/training/JSPandServlets/DoctorAppMaven/target/m2e-wtp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 web-resources/
+
+../JspServletsGit/DoctorAppMaven/Users/mohamed.ahmed/training/JSPandServlets/DoctorAppMaven/target/m2e-wtp/web-resources:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 META-INF/
+
+../JspServletsGit/DoctorAppMaven/Users/mohamed.ahmed/training/JSPandServlets/DoctorAppMaven/target/m2e-wtp/web-resources/META-INF:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 maven/
+
+../JspServletsGit/DoctorAppMaven/Users/mohamed.ahmed/training/JSPandServlets/DoctorAppMaven/target/m2e-wtp/web-resources/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 com.voya.doctormaven/
+
+../JspServletsGit/DoctorAppMaven/Users/mohamed.ahmed/training/JSPandServlets/DoctorAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.voya.doctormaven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 DoctorAppMaven/
+
+../JspServletsGit/DoctorAppMaven/Users/mohamed.ahmed/training/JSPandServlets/DoctorAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.voya.doctormaven/DoctorAppMaven:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089 278 Mar 18 12:01 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 801 Mar 18 12:01 pom.xml
+
+../JspServletsGit/DoctorAppMaven/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:05 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:05 test/
+
+../JspServletsGit/DoctorAppMaven/src/main:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:21 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:05 resources/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:18 webapp/
+
+../JspServletsGit/DoctorAppMaven/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:21 com/
+
+../JspServletsGit/DoctorAppMaven/src/main/java/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:22 doctorapp/
+
+../JspServletsGit/DoctorAppMaven/src/main/java/com/doctorapp:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:28 controllers/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 14:40 exception/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 14:40 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 14:39 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 14:38 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 14:50 util/
+
+../JspServletsGit/DoctorAppMaven/src/main/java/com/doctorapp/controllers:
+total 24
+-rw-r--r-- 1 mohamed.ahmed 1049089 2444 Mar 15 16:46 AddServlet.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1288 Mar 15 12:27 DeleteServlet.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1973 Mar 19 18:17 EditServlet.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1653 Mar 15 16:45 LoginServlet.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1212 Mar 15 12:25 SearchServlet.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1740 Mar 18 15:57 UpdateServlet.java
+
+../JspServletsGit/DoctorAppMaven/src/main/java/com/doctorapp/exception:
+total 2
+-rw-r--r-- 1 mohamed.ahmed 1049089 231 Mar 15 15:26 DoctorNotFoundException.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 219 Mar 15 15:26 IdNotFoundException.java
+
+../JspServletsGit/DoctorAppMaven/src/main/java/com/doctorapp/model:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089 2245 Mar 15 15:56 Doctor.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  438 Mar 15 14:40 Specialization.java
+
+../JspServletsGit/DoctorAppMaven/src/main/java/com/doctorapp/repository:
+total 16
+-rw-r--r-- 1 mohamed.ahmed 1049089 10160 Mar 15 15:26 DoctorRepositoryImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089   760 Mar 15 15:26 IDoctorRepository.java
+
+../JspServletsGit/DoctorAppMaven/src/main/java/com/doctorapp/service:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 3544 Mar 15 15:25 DoctorServiceImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  957 Mar 15 15:26 IDoctorService.java
+
+../JspServletsGit/DoctorAppMaven/src/main/java/com/doctorapp/util:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089  728 Mar 15 16:51 DoctorDB.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1095 Mar 15 14:50 Queries.java
+
+../JspServletsGit/DoctorAppMaven/src/main/resources:
+total 0
+
+../JspServletsGit/DoctorAppMaven/src/main/webapp:
+total 13
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 15 15:34 WEB-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 584 Mar 19 17:48 addDoc.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 402 Mar 19 18:15 adminDash.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 234 Mar 15 12:17 deleteDoc.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 359 Mar 19 18:12 editDoc.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 363 Mar 15 15:16 index.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 411 Mar 15 12:38 login.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 813 Mar 19 09:42 updateDoc.jsp
+
+../JspServletsGit/DoctorAppMaven/src/main/webapp/WEB-INF:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 15 15:36 lib/
+-rw-r--r-- 1 mohamed.ahmed 1049089 283 Mar 15 16:39 web.xml
+
+../JspServletsGit/DoctorAppMaven/src/main/webapp/WEB-INF/lib:
+total 2424
+-rw-r--r-- 1 mohamed.ahmed 1049089 2481560 Mar 15 15:36 mysql-connector-j-8.0.33.jar
+
+../JspServletsGit/DoctorAppMaven/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:05 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:05 resources/
+
+../JspServletsGit/DoctorAppMaven/src/test/java:
+total 0
+
+../JspServletsGit/DoctorAppMaven/src/test/resources:
+total 0
+
+../JspServletsGit/DoctorAppMaven/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:26 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:26 m2e-wtp/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:05 test-classes/
+
+../JspServletsGit/DoctorAppMaven/target/classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:26 com/
+
+../JspServletsGit/DoctorAppMaven/target/classes/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:26 doctorapp/
+
+../JspServletsGit/DoctorAppMaven/target/classes/com/doctorapp:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:28 controllers/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 14:40 exception/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 14:40 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 14:39 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 14:38 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 14:50 util/
+
+../JspServletsGit/DoctorAppMaven/target/classes/com/doctorapp/controllers:
+total 24
+-rw-r--r-- 1 mohamed.ahmed 1049089 2697 Mar 15 16:46 AddServlet.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1312 Mar 15 12:27 DeleteServlet.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 2298 Mar 19 18:17 EditServlet.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1906 Mar 15 16:45 LoginServlet.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1199 Mar 15 12:26 SearchServlet.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 2057 Mar 18 15:57 UpdateServlet.class
+
+../JspServletsGit/DoctorAppMaven/target/classes/com/doctorapp/exception:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 490 Mar 15 15:26 DoctorNotFoundException.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 478 Mar 15 15:26 IdNotFoundException.class
+
+../JspServletsGit/DoctorAppMaven/target/classes/com/doctorapp/model:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 2681 Mar 15 15:56 Doctor.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1613 Mar 15 14:40 Specialization.class
+
+../JspServletsGit/DoctorAppMaven/target/classes/com/doctorapp/repository:
+total 16
+-rw-r--r-- 1 mohamed.ahmed 1049089 10659 Mar 15 15:26 DoctorRepositoryImpl.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  1155 Mar 15 15:26 IDoctorRepository.class
+
+../JspServletsGit/DoctorAppMaven/target/classes/com/doctorapp/service:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 5323 Mar 15 15:26 DoctorServiceImpl.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1242 Mar 15 15:26 IDoctorService.class
+
+../JspServletsGit/DoctorAppMaven/target/classes/com/doctorapp/util:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 1324 Mar 15 16:51 DoctorDB.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1238 Mar 15 14:50 Queries.class
+
+../JspServletsGit/DoctorAppMaven/target/m2e-wtp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:26 web-resources/
+
+../JspServletsGit/DoctorAppMaven/target/m2e-wtp/web-resources:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:26 META-INF/
+
+../JspServletsGit/DoctorAppMaven/target/m2e-wtp/web-resources/META-INF:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:26 maven/
+
+../JspServletsGit/DoctorAppMaven/target/m2e-wtp/web-resources/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:26 com.voya.doctormaven/
+
+../JspServletsGit/DoctorAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.voya.doctormaven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:26 DoctorAppMaven/
+
+../JspServletsGit/DoctorAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.voya.doctormaven/DoctorAppMaven:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089 278 Mar 15 12:26 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 801 Mar 15 12:26 pom.xml
+
+../JspServletsGit/DoctorAppMaven/target/test-classes:
+total 0
+
+../JspServletsGit/EmployeeApp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 13:50 build/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 13:50 src/
+
+../JspServletsGit/EmployeeApp/build:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 classes/
+
+../JspServletsGit/EmployeeApp/build/classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 com/
+
+../JspServletsGit/EmployeeApp/build/classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 empapp/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 employeeapp/
+
+../JspServletsGit/EmployeeApp/build/classes/com/empapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 servlets/
+
+../JspServletsGit/EmployeeApp/build/classes/com/empapp/servlets:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2723 Mar 15 12:20 EmployeeServlet.class
+
+../JspServletsGit/EmployeeApp/build/classes/com/employeeapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 model/
+
+../JspServletsGit/EmployeeApp/build/classes/com/employeeapp/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2120 Mar 15 12:20 Employee.class
+
+../JspServletsGit/EmployeeApp/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 13:50 main/
+
+../JspServletsGit/EmployeeApp/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 17:04 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 17:26 webapp/
+
+../JspServletsGit/EmployeeApp/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 17:09 com/
+
+../JspServletsGit/EmployeeApp/src/main/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 17:09 empapp/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 17:08 employeeapp/
+
+../JspServletsGit/EmployeeApp/src/main/java/com/empapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 17:09 servlets/
+
+../JspServletsGit/EmployeeApp/src/main/java/com/empapp/servlets:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2299 Mar 14 10:38 EmployeeServlet.java
+
+../JspServletsGit/EmployeeApp/src/main/java/com/employeeapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 17:04 model/
+
+../JspServletsGit/EmployeeApp/src/main/java/com/employeeapp/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1407 Mar 13 17:42 Employee.java
+
+../JspServletsGit/EmployeeApp/src/main/webapp:
+total 8
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 13 13:50 META-INF/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 13 13:50 WEB-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 760 Mar 13 17:43 empsuccess.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 675 Mar 13 17:42 index.jsp
+
+../JspServletsGit/EmployeeApp/src/main/webapp/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 39 Mar 13 13:50 MANIFEST.MF
+
+../JspServletsGit/EmployeeApp/src/main/webapp/WEB-INF:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 13:50 lib/
+
+../JspServletsGit/EmployeeApp/src/main/webapp/WEB-INF/lib:
+total 0
+
+../JspServletsGit/EmployeeAppMaven:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 18 12:01 Users/
+-rw-r--r-- 1 mohamed.ahmed 1049089 544 Mar 14 14:19 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 14 14:06 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 14 14:06 target/
+
+../JspServletsGit/EmployeeAppMaven/Users:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 mohamed.ahmed/
+
+../JspServletsGit/EmployeeAppMaven/Users/mohamed.ahmed:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 training/
+
+../JspServletsGit/EmployeeAppMaven/Users/mohamed.ahmed/training:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 JSPandServlets/
+
+../JspServletsGit/EmployeeAppMaven/Users/mohamed.ahmed/training/JSPandServlets:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 EmployeeAppMaven/
+
+../JspServletsGit/EmployeeAppMaven/Users/mohamed.ahmed/training/JSPandServlets/EmployeeAppMaven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 target/
+
+../JspServletsGit/EmployeeAppMaven/Users/mohamed.ahmed/training/JSPandServlets/EmployeeAppMaven/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 m2e-wtp/
+
+../JspServletsGit/EmployeeAppMaven/Users/mohamed.ahmed/training/JSPandServlets/EmployeeAppMaven/target/m2e-wtp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 web-resources/
+
+../JspServletsGit/EmployeeAppMaven/Users/mohamed.ahmed/training/JSPandServlets/EmployeeAppMaven/target/m2e-wtp/web-resources:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 META-INF/
+
+../JspServletsGit/EmployeeAppMaven/Users/mohamed.ahmed/training/JSPandServlets/EmployeeAppMaven/target/m2e-wtp/web-resources/META-INF:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 maven/
+
+../JspServletsGit/EmployeeAppMaven/Users/mohamed.ahmed/training/JSPandServlets/EmployeeAppMaven/target/m2e-wtp/web-resources/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 com.empapp.dist/
+
+../JspServletsGit/EmployeeAppMaven/Users/mohamed.ahmed/training/JSPandServlets/EmployeeAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.empapp.dist:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 EmployeeAppMaven/
+
+../JspServletsGit/EmployeeAppMaven/Users/mohamed.ahmed/training/JSPandServlets/EmployeeAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.empapp.dist/EmployeeAppMaven:
+total 2
+-rw-r--r-- 1 mohamed.ahmed 1049089 279 Mar 18 12:01 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 544 Mar 18 12:01 pom.xml
+
+../JspServletsGit/EmployeeAppMaven/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 14:06 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 14:06 test/
+
+../JspServletsGit/EmployeeAppMaven/src/main:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 15:30 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 14:06 resources/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 11:21 webapp/
+
+../JspServletsGit/EmployeeAppMaven/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 15:30 com/
+
+../JspServletsGit/EmployeeAppMaven/src/main/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 15:34 employeeappmaven/
+
+../JspServletsGit/EmployeeAppMaven/src/main/java/com/employeeappmaven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 15:30 controllers/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 15:34 model/
+
+../JspServletsGit/EmployeeAppMaven/src/main/java/com/employeeappmaven/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2381 Mar 15 11:38 EmployeeServlet.java
+
+../JspServletsGit/EmployeeAppMaven/src/main/java/com/employeeappmaven/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1157 Mar 14 15:48 Employee.java
+
+../JspServletsGit/EmployeeAppMaven/src/main/resources:
+total 0
+
+../JspServletsGit/EmployeeAppMaven/src/main/webapp:
+total 13
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 14 15:52 WEB-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 535 Mar 15 10:55 empexpressionlang.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 498 Mar 15 11:37 empscript.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 686 Mar 14 15:48 empsuccess.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 504 Mar 14 15:51 index.jsp
+
+../JspServletsGit/EmployeeAppMaven/src/main/webapp/WEB-INF:
+total 0
+
+../JspServletsGit/EmployeeAppMaven/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 14:06 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 14:06 resources/
+
+../JspServletsGit/EmployeeAppMaven/src/test/java:
+total 0
+
+../JspServletsGit/EmployeeAppMaven/src/test/resources:
+total 0
+
+../JspServletsGit/EmployeeAppMaven/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 14:18 m2e-wtp/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 14:06 test-classes/
+
+../JspServletsGit/EmployeeAppMaven/target/classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 com/
+
+../JspServletsGit/EmployeeAppMaven/target/classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 employeeappmaven/
+
+../JspServletsGit/EmployeeAppMaven/target/classes/com/employeeappmaven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 controllers/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 model/
+
+../JspServletsGit/EmployeeAppMaven/target/classes/com/employeeappmaven/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2752 Mar 15 12:20 EmployeeServlet.class
+
+../JspServletsGit/EmployeeAppMaven/target/classes/com/employeeappmaven/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1877 Mar 15 12:20 Employee.class
+
+../JspServletsGit/EmployeeAppMaven/target/m2e-wtp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 14:18 web-resources/
+
+../JspServletsGit/EmployeeAppMaven/target/m2e-wtp/web-resources:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 14:18 META-INF/
+
+../JspServletsGit/EmployeeAppMaven/target/m2e-wtp/web-resources/META-INF:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 14:18 maven/
+
+../JspServletsGit/EmployeeAppMaven/target/m2e-wtp/web-resources/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 14:18 com.empapp.dist/
+
+../JspServletsGit/EmployeeAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.empapp.dist:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 14:18 EmployeeAppMaven/
+
+../JspServletsGit/EmployeeAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.empapp.dist/EmployeeAppMaven:
+total 2
+-rw-r--r-- 1 mohamed.ahmed 1049089 279 Mar 18 12:57 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 544 Mar 18 12:57 pom.xml
+
+../JspServletsGit/EmployeeAppMaven/target/test-classes:
+total 0
+
+../JspServletsGit/FirstDemo:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 11:42 build/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 11:42 src/
+
+../JspServletsGit/FirstDemo/build:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 classes/
+
+../JspServletsGit/FirstDemo/build/classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 com/
+
+../JspServletsGit/FirstDemo/build/classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 voya/
+
+../JspServletsGit/FirstDemo/build/classes/com/voya:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 controllers/
+
+../JspServletsGit/FirstDemo/build/classes/com/voya/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1748 Mar 15 12:20 LoginServlet.class
+
+../JspServletsGit/FirstDemo/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 11:42 main/
+
+../JspServletsGit/FirstDemo/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 11:56 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 11:48 webapp/
+
+../JspServletsGit/FirstDemo/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 11:56 com/
+
+../JspServletsGit/FirstDemo/src/main/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 11:56 voya/
+
+../JspServletsGit/FirstDemo/src/main/java/com/voya:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 11:56 controllers/
+
+../JspServletsGit/FirstDemo/src/main/java/com/voya/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1667 Mar 13 12:07 LoginServlet.java
+
+../JspServletsGit/FirstDemo/src/main/webapp:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 13 11:42 META-INF/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 13 11:42 WEB-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 392 Mar 13 12:10 index.jsp
+
+../JspServletsGit/FirstDemo/src/main/webapp/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 39 Mar 13 11:42 MANIFEST.MF
+
+../JspServletsGit/FirstDemo/src/main/webapp/WEB-INF:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 11:42 lib/
+
+../JspServletsGit/FirstDemo/src/main/webapp/WEB-INF/lib:
+total 0
+
+../JspServletsGit/JSPDemos:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 16:29 build/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 16:29 src/
+
+../JspServletsGit/JSPDemos/build:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 16:29 classes/
+
+../JspServletsGit/JSPDemos/build/classes:
+total 0
+
+../JspServletsGit/JSPDemos/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 16:29 main/
+
+../JspServletsGit/JSPDemos/src/main:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 16:29 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 10:31 webapp/
+
+../JspServletsGit/JSPDemos/src/main/java:
+total 0
+
+../JspServletsGit/JSPDemos/src/main/webapp:
+total 10
+-rw-r--r-- 1 mohamed.ahmed 1049089 839 Mar 18 11:39 JSTL.jsp
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 14 16:29 META-INF/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 14 16:29 WEB-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 277 Mar 15 10:03 errorHandler.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 820 Mar 18 10:21 explang.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 593 Mar 15 10:03 hello.jsp
+
+../JspServletsGit/JSPDemos/src/main/webapp/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 39 Mar 14 16:29 MANIFEST.MF
+
+../JspServletsGit/JSPDemos/src/main/webapp/WEB-INF:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 11:22 lib/
+
+../JspServletsGit/JSPDemos/src/main/webapp/WEB-INF/lib:
+total 244
+-rw-r--r-- 1 mohamed.ahmed 1049089 206430 Mar 18 11:21 taglibs-standard-impl-1.2.5.jar
+-rw-r--r-- 1 mohamed.ahmed 1049089  40153 Mar 18 11:22 taglibs-standard-spec-1.2.5.jar
+
+../JspServletsGit/MovieAppMaven:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 18 12:01 Users/
+-rw-r--r-- 1 mohamed.ahmed 1049089 543 Mar 14 10:36 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 14 10:10 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 14 10:10 target/
+
+../JspServletsGit/MovieAppMaven/Users:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 mohamed.ahmed/
+
+../JspServletsGit/MovieAppMaven/Users/mohamed.ahmed:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 training/
+
+../JspServletsGit/MovieAppMaven/Users/mohamed.ahmed/training:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 JSPandServlets/
+
+../JspServletsGit/MovieAppMaven/Users/mohamed.ahmed/training/JSPandServlets:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 MovieAppMaven/
+
+../JspServletsGit/MovieAppMaven/Users/mohamed.ahmed/training/JSPandServlets/MovieAppMaven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 target/
+
+../JspServletsGit/MovieAppMaven/Users/mohamed.ahmed/training/JSPandServlets/MovieAppMaven/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 m2e-wtp/
+
+../JspServletsGit/MovieAppMaven/Users/mohamed.ahmed/training/JSPandServlets/MovieAppMaven/target/m2e-wtp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:27 web-resources/
+
+../JspServletsGit/MovieAppMaven/Users/mohamed.ahmed/training/JSPandServlets/MovieAppMaven/target/m2e-wtp/web-resources:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 META-INF/
+
+../JspServletsGit/MovieAppMaven/Users/mohamed.ahmed/training/JSPandServlets/MovieAppMaven/target/m2e-wtp/web-resources/META-INF:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 maven/
+
+../JspServletsGit/MovieAppMaven/Users/mohamed.ahmed/training/JSPandServlets/MovieAppMaven/target/m2e-wtp/web-resources/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:01 com.movieapp.dist/
+
+../JspServletsGit/MovieAppMaven/Users/mohamed.ahmed/training/JSPandServlets/MovieAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.movieapp.dist:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 12:27 MovieAppMaven/
+
+../JspServletsGit/MovieAppMaven/Users/mohamed.ahmed/training/JSPandServlets/MovieAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.movieapp.dist/MovieAppMaven:
+total 2
+-rw-r--r-- 1 mohamed.ahmed 1049089 272 Mar 18 12:27 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 543 Mar 18 12:27 pom.xml
+
+../JspServletsGit/MovieAppMaven/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 10:10 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 10:10 test/
+
+../JspServletsGit/MovieAppMaven/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 10:19 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 10:10 resources/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 11:14 webapp/
+
+../JspServletsGit/MovieAppMaven/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 10:19 com/
+
+../JspServletsGit/MovieAppMaven/src/main/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 11:32 movieapp/
+
+../JspServletsGit/MovieAppMaven/src/main/java/com/movieapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 10:49 controllers/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 11:32 service/
+
+../JspServletsGit/MovieAppMaven/src/main/java/com/movieapp/controllers:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 2002 Mar 14 14:59 LoginServlet.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1999 Mar 14 15:13 MovieServlet.java
+
+../JspServletsGit/MovieAppMaven/src/main/java/com/movieapp/service:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 694 Mar 14 13:59 MovieDetails.java
+
+../JspServletsGit/MovieAppMaven/src/main/resources:
+total 0
+
+../JspServletsGit/MovieAppMaven/src/main/webapp:
+total 9
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 14 10:19 WEB-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 419 Mar 14 10:36 index.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 622 Mar 14 14:58 moviesuccess.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 896 Mar 14 15:07 success.jsp
+
+../JspServletsGit/MovieAppMaven/src/main/webapp/WEB-INF:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1369 Mar 14 10:49 web.xml
+
+../JspServletsGit/MovieAppMaven/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 10:10 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 10:10 resources/
+
+../JspServletsGit/MovieAppMaven/src/test/java:
+total 0
+
+../JspServletsGit/MovieAppMaven/src/test/resources:
+total 0
+
+../JspServletsGit/MovieAppMaven/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 11:03 m2e-wtp/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 10:10 test-classes/
+
+../JspServletsGit/MovieAppMaven/target/classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 com/
+
+../JspServletsGit/MovieAppMaven/target/classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 movieapp/
+
+../JspServletsGit/MovieAppMaven/target/classes/com/movieapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 controllers/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 service/
+
+../JspServletsGit/MovieAppMaven/target/classes/com/movieapp/controllers:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 2627 Mar 15 12:20 LoginServlet.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 2680 Mar 15 12:20 MovieServlet.class
+
+../JspServletsGit/MovieAppMaven/target/classes/com/movieapp/service:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1049 Mar 15 12:20 MovieDetails.class
+
+../JspServletsGit/MovieAppMaven/target/m2e-wtp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 11:03 web-resources/
+
+../JspServletsGit/MovieAppMaven/target/m2e-wtp/web-resources:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 11:03 META-INF/
+
+../JspServletsGit/MovieAppMaven/target/m2e-wtp/web-resources/META-INF:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 11:03 maven/
+
+../JspServletsGit/MovieAppMaven/target/m2e-wtp/web-resources/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 11:03 com.movieapp.dist/
+
+../JspServletsGit/MovieAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.movieapp.dist:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 11:03 MovieAppMaven/
+
+../JspServletsGit/MovieAppMaven/target/m2e-wtp/web-resources/META-INF/maven/com.movieapp.dist/MovieAppMaven:
+total 2
+-rw-r--r-- 1 mohamed.ahmed 1049089 272 Mar 18 12:57 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 543 Mar 18 12:57 pom.xml
+
+../JspServletsGit/MovieAppMaven/target/test-classes:
+total 0
+
+../JspServletsGit/RequestDispatcherDemo:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 14:17 build/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 14:17 src/
+
+../JspServletsGit/RequestDispatcherDemo/build:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 classes/
+
+../JspServletsGit/RequestDispatcherDemo/build/classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 com/
+
+../JspServletsGit/RequestDispatcherDemo/build/classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 voya/
+
+../JspServletsGit/RequestDispatcherDemo/build/classes/com/voya:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 12:20 controllers/
+
+../JspServletsGit/RequestDispatcherDemo/build/classes/com/voya/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2625 Mar 15 12:20 RequestDispatcherDemo.class
+
+../JspServletsGit/RequestDispatcherDemo/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 14:17 main/
+
+../JspServletsGit/RequestDispatcherDemo/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 14:22 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 10:08 webapp/
+
+../JspServletsGit/RequestDispatcherDemo/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 14:22 com/
+
+../JspServletsGit/RequestDispatcherDemo/src/main/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 14:22 voya/
+
+../JspServletsGit/RequestDispatcherDemo/src/main/java/com/voya:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 14:22 controllers/
+
+../JspServletsGit/RequestDispatcherDemo/src/main/java/com/voya/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2259 Mar 15 10:12 RequestDispatcherDemo.java
+
+../JspServletsGit/RequestDispatcherDemo/src/main/webapp:
+total 9
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 13 14:17 META-INF/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 15 10:18 WEB-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 277 Mar 15 10:13 errorHandler.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 900 Mar 13 13:48 index.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 962 Mar 15 10:13 success.jsp
+
+../JspServletsGit/RequestDispatcherDemo/src/main/webapp/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 39 Mar 13 14:17 MANIFEST.MF
+
+../JspServletsGit/RequestDispatcherDemo/src/main/webapp/WEB-INF:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 13 14:17 lib/
+-rw-r--r-- 1 mohamed.ahmed 1049089 414 Mar 15 10:25 web.xml
+
+../JspServletsGit/RequestDispatcherDemo/src/main/webapp/WEB-INF/lib:
+total 0
+
+../Linuxtraining:
+total 5
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 25 14:41 assignments/
+-rw-r--r-- 1 mohamed.ahmed 1049089  34 Mar 25 10:35 check.txt
+-rw-r--r-- 1 mohamed.ahmed 1049089  28 Mar 25 12:58 demo3.txt
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 25 14:02 demos/
+-rw-r--r-- 1 mohamed.ahmed 1049089   0 Mar 25 16:37 details.txt
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 25 10:31 my apps/
+-rw-r--r-- 1 mohamed.ahmed 1049089 231 Mar 25 15:42 text1.txt
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 25 12:55 training/
+-rw-r--r-- 1 mohamed.ahmed 1049089  28 Mar 25 12:58 trial.txt
+-rw-r--r-- 1 mohamed.ahmed 1049089  28 Mar 25 12:58 trial1.txt
+
+../Linuxtraining/assignments:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 25 14:41 backend/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 25 14:40 frontend/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 25 14:55 training/
+
+../Linuxtraining/assignments/backend:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 25 14:41 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 25 14:41 spring/
+
+../Linuxtraining/assignments/backend/java:
+total 0
+
+../Linuxtraining/assignments/backend/spring:
+total 0
+
+../Linuxtraining/assignments/frontend:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 25 14:40 angular/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 25 14:40 react/
+
+../Linuxtraining/assignments/frontend/angular:
+total 0
+
+../Linuxtraining/assignments/frontend/react:
+total 0
+
+../Linuxtraining/assignments/training:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 25 14:57 courses/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 25 14:54 demos/
+-rw-r--r-- 1 mohamed.ahmed 1049089 0 Mar 25 14:43 trial1.txt
+-rw-r--r-- 1 mohamed.ahmed 1049089 0 Mar 25 14:43 trial2.txt
+-rw-r--r-- 1 mohamed.ahmed 1049089 0 Mar 25 14:43 trial3.txt
+
+../Linuxtraining/assignments/training/courses:
+total 3
+-rw-r--r-- 1 mohamed.ahmed 1049089  14 Mar 25 14:57 test1.txt
+-rw-r--r-- 1 mohamed.ahmed 1049089  14 Mar 25 14:57 test2.txt
+-rw-r--r-- 1 mohamed.ahmed 1049089 114 Mar 25 14:57 test3.txt
+
+../Linuxtraining/assignments/training/demos:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089  14 Mar 25 14:45 test1.txt
+-rw-r--r-- 1 mohamed.ahmed 1049089   0 Mar 25 14:45 test10.txt
+-rw-r--r-- 1 mohamed.ahmed 1049089  40 Mar 25 15:02 test2.txt
+-rw-r--r-- 1 mohamed.ahmed 1049089 114 Mar 25 14:51 test3.txt
+-rw-r--r-- 1 mohamed.ahmed 1049089   0 Mar 25 14:45 test4.txt
+-rw-r--r-- 1 mohamed.ahmed 1049089 142 Mar 25 15:00 test5.txt
+-rw-r--r-- 1 mohamed.ahmed 1049089   0 Mar 25 14:45 test6.txt
+-rw-r--r-- 1 mohamed.ahmed 1049089   0 Mar 25 14:45 test7.txt
+-rw-r--r-- 1 mohamed.ahmed 1049089   0 Mar 25 14:45 test8.txt
+-rw-r--r-- 1 mohamed.ahmed 1049089   0 Mar 25 14:45 test9.txt
+
+../Linuxtraining/demos:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 25 10:26 examples/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 25 14:01 samples/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 25 14:00 trial/
+
+../Linuxtraining/demos/examples:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 25 10:26 trial/
+
+../Linuxtraining/demos/examples/trial:
+total 0
+
+../Linuxtraining/demos/samples:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 25 14:01 trial/
+
+../Linuxtraining/demos/samples/trial:
+total 0
+
+../Linuxtraining/demos/trial:
+total 0
+
+../Linuxtraining/my apps:
+total 0
+
+../Linuxtraining/training:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 25 10:29 spring/
+
+../Linuxtraining/training/spring:
+total 0
+
+../SpringDemos:
+total 60
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 18:05 Assignment/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 17:25 Servers/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 14:25 SpringBasic/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 19:21 demo-jdbc-doctor/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:19 spring-bookapp-basic/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:20 spring-bookapp-jdbc/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:20 spring-bookapp-mybatis/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 10:54 spring-boot-autowire/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 13:52 spring-greetapp-rest/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 14:56 spring-insuranceapp-rest/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 15:37 spring-insuranceapp-restmybatis/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 17:20 spring-mvc-basic/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:08 spring-mvc-doctorapp/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:33 spring-productapp-mybatis/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 14:32 spring-security-inmem/
+
+../SpringDemos/Assignment:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 784 Mar 18 18:05 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 18 18:05 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 18 18:05 target/
+
+../SpringDemos/Assignment/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 18:05 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 18:05 test/
+
+../SpringDemos/Assignment/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 09:17 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 18:05 resources/
+
+../SpringDemos/Assignment/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 19:23 com/
+
+../SpringDemos/Assignment/src/main/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 11:25 voya/
+
+../SpringDemos/Assignment/src/main/java/com/voya:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 19:46 music/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 19:28 setter/
+
+../SpringDemos/Assignment/src/main/java/com/voya/music:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 516 Mar 18 19:50 AutoMain.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 316 Mar 18 19:49 Guitar.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  90 Mar 18 19:49 IInstrument.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 320 Mar 18 19:49 Keyboard.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 631 Mar 18 19:49 Performer.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 316 Mar 18 19:49 Voilin.java
+
+../SpringDemos/Assignment/src/main/java/com/voya/setter:
+total 9
+-rw-r--r-- 1 mohamed.ahmed 1049089  612 Mar 18 19:32 Engine.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1246 Mar 18 19:34 Vehicle.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  461 Mar 18 19:29 VehicleMain.java
+
+../SpringDemos/Assignment/src/main/resources:
+total 0
+
+../SpringDemos/Assignment/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 18:05 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 18:05 resources/
+
+../SpringDemos/Assignment/src/test/java:
+total 0
+
+../SpringDemos/Assignment/src/test/resources:
+total 0
+
+../SpringDemos/Assignment/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 09:17 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 18:05 test-classes/
+
+../SpringDemos/Assignment/target/classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 18:06 META-INF/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 19:23 com/
+
+../SpringDemos/Assignment/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 112 Mar 18 18:06 MANIFEST.MF
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 18 18:06 maven/
+
+../SpringDemos/Assignment/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 18:06 com.voya.assignment/
+
+../SpringDemos/Assignment/target/classes/META-INF/maven/com.voya.assignment:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 18:06 Assignment/
+
+../SpringDemos/Assignment/target/classes/META-INF/maven/com.voya.assignment/Assignment:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089 262 Mar 18 18:06 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 784 Mar 18 18:06 pom.xml
+
+../SpringDemos/Assignment/target/classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 11:25 voya/
+
+../SpringDemos/Assignment/target/classes/com/voya:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 19:46 music/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 19:28 setter/
+
+../SpringDemos/Assignment/target/classes/com/voya/music:
+total 21
+-rw-r--r-- 1 mohamed.ahmed 1049089  998 Mar 18 19:50 AutoMain.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  721 Mar 18 19:49 Guitar.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  157 Mar 18 19:49 IInstrument.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  729 Mar 18 19:49 Keyboard.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1118 Mar 18 19:49 Performer.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  721 Mar 18 19:49 Voilin.class
+
+../SpringDemos/Assignment/target/classes/com/voya/setter:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 1237 Mar 18 19:32 Engine.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 2224 Mar 18 19:34 Vehicle.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  983 Mar 18 19:29 VehicleMain.class
+
+../SpringDemos/Assignment/target/test-classes:
+total 0
+
+../SpringDemos/Servers:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 17:25 Tomcat v9.0 Server at localhost-config/
+
+../SpringDemos/Servers/Tomcat v9.0 Server at localhost-config:
+total 212
+-rw-r--r-- 1 mohamed.ahmed 1049089  12954 Mar 19 17:25 catalina.policy
+-rw-r--r-- 1 mohamed.ahmed 1049089   7630 Mar 19 17:25 catalina.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089   1398 Mar 19 17:25 context.xml
+-rw-r--r-- 1 mohamed.ahmed 1049089   7672 Mar 19 17:25 server.xml
+-rw-r--r-- 1 mohamed.ahmed 1049089   2713 Mar 19 17:25 tomcat-users.xml
+-rw-r--r-- 1 mohamed.ahmed 1049089 172944 Mar 19 17:25 web.xml
+
+../SpringDemos/SpringBasic:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 779 Mar 18 14:52 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 18 14:25 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 18 14:25 target/
+
+../SpringDemos/SpringBasic/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 14:25 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 14:25 test/
+
+../SpringDemos/SpringBasic/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 14:54 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 15:52 resources/
+
+../SpringDemos/SpringBasic/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 14:54 com/
+
+../SpringDemos/SpringBasic/src/main/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 10:55 spring/
+
+../SpringDemos/SpringBasic/src/main/java/com/spring:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 15:14 setter/
+
+../SpringDemos/SpringBasic/src/main/java/com/spring/setter:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089  763 Mar 18 15:25 Address.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  727 Mar 18 15:11 EmpMain.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1274 Mar 18 15:25 Employee.java
+
+../SpringDemos/SpringBasic/src/main/resources:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 101 Mar 18 15:54 application.properties
+
+../SpringDemos/SpringBasic/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 14:25 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 14:25 resources/
+
+../SpringDemos/SpringBasic/src/test/java:
+total 0
+
+../SpringDemos/SpringBasic/src/test/resources:
+total 0
+
+../SpringDemos/SpringBasic/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 15:52 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 14:25 test-classes/
+
+../SpringDemos/SpringBasic/target/classes:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 18 14:52 META-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 101 Mar 18 15:54 application.properties
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 18 14:54 com/
+
+../SpringDemos/SpringBasic/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 112 Mar 18 14:52 MANIFEST.MF
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 18 14:52 maven/
+
+../SpringDemos/SpringBasic/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 14:52 com.voya.dist/
+
+../SpringDemos/SpringBasic/target/classes/META-INF/maven/com.voya.dist:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 14:52 SpringBasic/
+
+../SpringDemos/SpringBasic/target/classes/META-INF/maven/com.voya.dist/SpringBasic:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089 259 Mar 18 14:52 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 779 Mar 18 14:52 pom.xml
+
+../SpringDemos/SpringBasic/target/classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 10:55 spring/
+
+../SpringDemos/SpringBasic/target/classes/com/spring:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 18 15:14 setter/
+
+../SpringDemos/SpringBasic/target/classes/com/spring/setter:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 1332 Mar 18 15:25 Address.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1448 Mar 18 15:11 EmpMain.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1971 Mar 18 15:25 Employee.class
+
+../SpringDemos/SpringBasic/target/test-classes:
+total 0
+
+../SpringDemos/demo-jdbc-doctor:
+total 28
+-rw-r--r-- 1 mohamed.ahmed 1049089   814 Mar 19 19:21 HELP.md
+-rwxr-xr-x 1 mohamed.ahmed 1049089 11290 Mar 19 19:21 mvnw*
+-rw-r--r-- 1 mohamed.ahmed 1049089  7592 Mar 19 19:21 mvnw.cmd
+-rw-r--r-- 1 mohamed.ahmed 1049089  1527 Mar 19 19:21 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 19 19:21 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 19 19:21 target/
+
+../SpringDemos/demo-jdbc-doctor/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 19:21 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 19:21 test/
+
+../SpringDemos/demo-jdbc-doctor/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 19:21 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 19:21 resources/
+
+../SpringDemos/demo-jdbc-doctor/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 09:23 com/
+
+../SpringDemos/demo-jdbc-doctor/src/main/java/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 09:23 doctorapp/
+
+../SpringDemos/demo-jdbc-doctor/src/main/java/com/doctorapp:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 938 Mar 20 10:00 DemoJdbcDoctorApplication.java
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 19:26 client/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 19:26 exceptions/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 19:26 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 19:42 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 19:26 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 19:26 util/
+
+../SpringDemos/demo-jdbc-doctor/src/main/java/com/doctorapp/client:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 632 Mar 15 16:04 User.java
+
+../SpringDemos/demo-jdbc-doctor/src/main/java/com/doctorapp/exceptions:
+total 2
+-rw-r--r-- 1 mohamed.ahmed 1049089 232 Mar 14 19:47 DoctorNotFoundException.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 220 Mar 14 19:47 IdNotFoundException.java
+
+../SpringDemos/demo-jdbc-doctor/src/main/java/com/doctorapp/model:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089 2247 Mar 15 15:47 Doctor.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  438 Mar 14 19:47 Specialization.java
+
+../SpringDemos/demo-jdbc-doctor/src/main/java/com/doctorapp/repository:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089  675 Mar 20 09:41 DoctorMapper.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 3324 Mar 20 09:51 DoctorRepositoryImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  761 Mar 14 19:47 IDoctorRepository.java
+
+../SpringDemos/demo-jdbc-doctor/src/main/java/com/doctorapp/service:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 3707 Mar 20 09:22 DoctorServiceImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  959 Mar 15 11:16 IDoctorService.java
+
+../SpringDemos/demo-jdbc-doctor/src/main/java/com/doctorapp/util:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089  588 Mar 14 19:47 DoctorDB.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1095 Mar 14 19:51 Queries.java
+
+../SpringDemos/demo-jdbc-doctor/src/main/resources:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 168 Mar 20 09:49 application.properties
+
+../SpringDemos/demo-jdbc-doctor/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 19:21 java/
+
+../SpringDemos/demo-jdbc-doctor/src/test/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 19:21 com/
+
+../SpringDemos/demo-jdbc-doctor/src/test/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 19:21 example/
+
+../SpringDemos/demo-jdbc-doctor/src/test/java/com/example:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 211 Mar 19 19:21 DemoJdbcDoctorApplicationTests.java
+
+../SpringDemos/demo-jdbc-doctor/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 09:16 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 09:16 test-classes/
+
+../SpringDemos/demo-jdbc-doctor/target/classes:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 09:16 META-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 168 Mar 20 09:49 application.properties
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 09:23 com/
+
+../SpringDemos/demo-jdbc-doctor/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 168 Mar 21 10:26 MANIFEST.MF
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 09:16 maven/
+
+../SpringDemos/demo-jdbc-doctor/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 09:16 com.example/
+
+../SpringDemos/demo-jdbc-doctor/target/classes/META-INF/maven/com.example:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 09:16 demo-jdbc-doctor/
+
+../SpringDemos/demo-jdbc-doctor/target/classes/META-INF/maven/com.example/demo-jdbc-doctor:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  272 Mar 20 09:16 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 1527 Mar 20 09:16 pom.xml
+
+../SpringDemos/demo-jdbc-doctor/target/classes/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 09:23 doctorapp/
+
+../SpringDemos/demo-jdbc-doctor/target/classes/com/doctorapp:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 1326 Mar 20 10:00 DemoJdbcDoctorApplication.class
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 20 09:16 client/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 20 09:16 exceptions/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 20 09:16 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 20 09:16 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 20 09:16 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 20 09:16 util/
+
+../SpringDemos/demo-jdbc-doctor/target/classes/com/doctorapp/client:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1080 Mar 20 09:16 User.class
+
+../SpringDemos/demo-jdbc-doctor/target/classes/com/doctorapp/exceptions:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 522 Mar 20 09:16 DoctorNotFoundException.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 510 Mar 20 09:16 IdNotFoundException.class
+
+../SpringDemos/demo-jdbc-doctor/target/classes/com/doctorapp/model:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 2824 Mar 20 09:16 Doctor.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1698 Mar 20 09:16 Specialization.class
+
+../SpringDemos/demo-jdbc-doctor/target/classes/com/doctorapp/repository:
+total 16
+-rw-r--r-- 1 mohamed.ahmed 1049089 1590 Mar 20 09:41 DoctorMapper.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 4870 Mar 20 09:51 DoctorRepositoryImpl.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1370 Mar 20 09:16 IDoctorRepository.class
+
+../SpringDemos/demo-jdbc-doctor/target/classes/com/doctorapp/service:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 5542 Mar 20 09:22 DoctorServiceImpl.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1458 Mar 20 09:16 IDoctorService.class
+
+../SpringDemos/demo-jdbc-doctor/target/classes/com/doctorapp/util:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 1083 Mar 20 09:16 DoctorDB.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1238 Mar 20 09:16 Queries.class
+
+../SpringDemos/demo-jdbc-doctor/target/test-classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 09:16 com/
+
+../SpringDemos/demo-jdbc-doctor/target/test-classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 09:16 example/
+
+../SpringDemos/demo-jdbc-doctor/target/test-classes/com/example:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 551 Mar 20 09:16 DemoJdbcDoctorApplicationTests.class
+
+../SpringDemos/spring-bookapp-basic:
+total 25
+-rw-r--r-- 1 mohamed.ahmed 1049089   429 Mar 19 12:14 HELP.md
+-rwxr-xr-x 1 mohamed.ahmed 1049089 11290 Mar 19 12:14 mvnw*
+-rw-r--r-- 1 mohamed.ahmed 1049089  7592 Mar 19 12:14 mvnw.cmd
+-rw-r--r-- 1 mohamed.ahmed 1049089  1390 Mar 19 12:14 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 19 12:14 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 19 12:19 target/
+
+../SpringDemos/spring-bookapp-basic/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:14 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:14 test/
+
+../SpringDemos/spring-bookapp-basic/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 13:51 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:14 resources/
+
+../SpringDemos/spring-bookapp-basic/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:14 com/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 13:09 exception/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 13:09 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 13:09 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 13:09 util/
+
+../SpringDemos/spring-bookapp-basic/src/main/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:14 bookapp/
+
+../SpringDemos/spring-bookapp-basic/src/main/java/com/bookapp:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 592 Mar 19 16:23 SpringBookappBasicApplication.java
+
+../SpringDemos/spring-bookapp-basic/src/main/java/exception:
+total 2
+-rw-r--r-- 1 mohamed.ahmed 1049089 218 Mar 19 15:40 BookNotFoundException.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 213 Mar 19 13:10 IdNotFoundException.java
+
+../SpringDemos/spring-bookapp-basic/src/main/java/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1550 Mar 19 13:11 Book.java
+
+../SpringDemos/spring-bookapp-basic/src/main/java/service:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 3666 Mar 19 16:30 BookServiceImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  697 Mar 19 13:12 IBookService.java
+
+../SpringDemos/spring-bookapp-basic/src/main/java/util:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 741 Mar 19 13:52 BookDetails.java
+
+../SpringDemos/spring-bookapp-basic/src/main/resources:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 45 Mar 19 12:14 application.properties
+
+../SpringDemos/spring-bookapp-basic/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:14 java/
+
+../SpringDemos/spring-bookapp-basic/src/test/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:14 com/
+
+../SpringDemos/spring-bookapp-basic/src/test/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:14 bookapp/
+
+../SpringDemos/spring-bookapp-basic/src/test/java/com/bookapp:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 215 Mar 19 12:14 SpringBookappBasicApplicationTests.java
+
+../SpringDemos/spring-bookapp-basic/target:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 13:51 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:19 test-classes/
+
+../SpringDemos/spring-bookapp-basic/target/classes:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 19 12:19 META-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 45 Mar 19 12:19 application.properties
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 19 12:19 com/
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 19 13:10 exception/
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 19 13:10 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 19 13:10 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 19 13:10 util/
+
+../SpringDemos/spring-bookapp-basic/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 172 Mar 19 17:21 MANIFEST.MF
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 12:19 maven/
+
+../SpringDemos/spring-bookapp-basic/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:19 com.example/
+
+../SpringDemos/spring-bookapp-basic/target/classes/META-INF/maven/com.example:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:19 spring-bookapp-basic/
+
+../SpringDemos/spring-bookapp-basic/target/classes/META-INF/maven/com.example/spring-bookapp-basic:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  284 Mar 19 12:19 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 1390 Mar 19 12:19 pom.xml
+
+../SpringDemos/spring-bookapp-basic/target/classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:19 bookapp/
+
+../SpringDemos/spring-bookapp-basic/target/classes/com/bookapp:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1012 Mar 19 16:23 SpringBookappBasicApplication.class
+
+../SpringDemos/spring-bookapp-basic/target/classes/exception:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 493 Mar 19 15:40 BookNotFoundException.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 487 Mar 19 13:10 IdNotFoundException.class
+
+../SpringDemos/spring-bookapp-basic/target/classes/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2212 Mar 19 13:11 Book.class
+
+../SpringDemos/spring-bookapp-basic/target/classes/service:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 4356 Mar 19 16:31 BookServiceImpl.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  984 Mar 19 13:12 IBookService.class
+
+../SpringDemos/spring-bookapp-basic/target/classes/util:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1140 Mar 19 13:52 BookDetails.class
+
+../SpringDemos/spring-bookapp-basic/target/test-classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:19 com/
+
+../SpringDemos/spring-bookapp-basic/target/test-classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:19 bookapp/
+
+../SpringDemos/spring-bookapp-basic/target/test-classes/com/bookapp:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 563 Mar 19 12:19 SpringBookappBasicApplicationTests.class
+
+../SpringDemos/spring-bookapp-jdbc:
+total 28
+-rw-r--r-- 1 mohamed.ahmed 1049089   814 Mar 19 14:18 HELP.md
+-rwxr-xr-x 1 mohamed.ahmed 1049089 11290 Mar 19 14:18 mvnw*
+-rw-r--r-- 1 mohamed.ahmed 1049089  7592 Mar 19 14:18 mvnw.cmd
+-rw-r--r-- 1 mohamed.ahmed 1049089  1533 Mar 19 14:18 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 19 14:18 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 19 14:20 target/
+
+../SpringDemos/spring-bookapp-jdbc/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:18 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:18 test/
+
+../SpringDemos/spring-bookapp-jdbc/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:18 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:18 resources/
+
+../SpringDemos/spring-bookapp-jdbc/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:18 com/
+
+../SpringDemos/spring-bookapp-jdbc/src/main/java/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:27 bookapp/
+
+../SpringDemos/spring-bookapp-jdbc/src/main/java/com/bookapp:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 952 Mar 19 19:11 SpringBookappJdbcApplication.java
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 15:02 exception/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 15:05 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 15:13 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 15:09 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 15:04 util/
+
+../SpringDemos/spring-bookapp-jdbc/src/main/java/com/bookapp/exception:
+total 2
+-rw-r--r-- 1 mohamed.ahmed 1049089 227 Mar 19 15:40 BookNotFoundException.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 222 Mar 19 15:40 IdNotFoundException.java
+
+../SpringDemos/spring-bookapp-jdbc/src/main/java/com/bookapp/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1765 Mar 19 15:40 Book.java
+
+../SpringDemos/spring-bookapp-jdbc/src/main/java/com/bookapp/repository:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089  596 Mar 19 16:37 BookMapper.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 2725 Mar 20 09:22 BookRepositoryImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  792 Mar 19 15:40 IBookRepository.java
+
+../SpringDemos/spring-bookapp-jdbc/src/main/java/com/bookapp/service:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 2000 Mar 19 16:32 BookServiceImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  780 Mar 19 15:40 IBookService.java
+
+../SpringDemos/spring-bookapp-jdbc/src/main/java/com/bookapp/util:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 541 Mar 19 15:40 BookDB.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 898 Mar 19 16:37 Queries.java
+
+../SpringDemos/spring-bookapp-jdbc/src/main/resources:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 171 Mar 20 09:38 application.properties
+
+../SpringDemos/spring-bookapp-jdbc/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:18 java/
+
+../SpringDemos/spring-bookapp-jdbc/src/test/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:18 com/
+
+../SpringDemos/spring-bookapp-jdbc/src/test/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:18 bookapp/
+
+../SpringDemos/spring-bookapp-jdbc/src/test/java/com/bookapp:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 214 Mar 19 14:18 SpringBookappJdbcApplicationTests.java
+
+../SpringDemos/spring-bookapp-jdbc/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:20 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:20 test-classes/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 14:20 META-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 171 Mar 20 09:38 application.properties
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 14:20 com/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 171 Mar 19 17:21 MANIFEST.MF
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 14:20 maven/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:20 com.example/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/META-INF/maven/com.example:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:20 spring-bookapp-jdbc/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/META-INF/maven/com.example/spring-bookapp-jdbc:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  281 Mar 19 14:20 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 1533 Mar 19 14:20 pom.xml
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:27 bookapp/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/com/bookapp:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 1702 Mar 21 10:27 SpringBookappJdbcApplication.class
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 21 10:27 exception/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 19 15:05 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 19 15:13 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 19 15:09 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 19 15:04 util/
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/com/bookapp/exception:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 510 Mar 21 10:27 BookNotFoundException.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 504 Mar 21 10:27 IdNotFoundException.class
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/com/bookapp/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2300 Mar 19 15:40 Book.class
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/com/bookapp/repository:
+total 16
+-rw-r--r-- 1 mohamed.ahmed 1049089 1494 Mar 19 16:37 BookMapper.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 5357 Mar 21 10:27 BookRepositoryImpl.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1186 Mar 21 10:27 IBookRepository.class
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/com/bookapp/service:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 3121 Mar 21 10:27 BookServiceImpl.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1171 Mar 21 10:27 IBookService.class
+
+../SpringDemos/spring-bookapp-jdbc/target/classes/com/bookapp/util:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089  909 Mar 19 15:40 BookDB.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1023 Mar 19 16:37 Queries.class
+
+../SpringDemos/spring-bookapp-jdbc/target/test-classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:20 com/
+
+../SpringDemos/spring-bookapp-jdbc/target/test-classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:20 bookapp/
+
+../SpringDemos/spring-bookapp-jdbc/target/test-classes/com/bookapp:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 560 Mar 19 14:20 SpringBookappJdbcApplicationTests.class
+
+../SpringDemos/spring-bookapp-mybatis:
+total 28
+-rw-r--r-- 1 mohamed.ahmed 1049089   592 Mar 21 10:19 HELP.md
+-rwxr-xr-x 1 mohamed.ahmed 1049089 11290 Mar 21 10:19 mvnw*
+-rw-r--r-- 1 mohamed.ahmed 1049089  7592 Mar 21 10:19 mvnw.cmd
+-rw-r--r-- 1 mohamed.ahmed 1049089  1981 Mar 21 10:25 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 21 10:19 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 21 10:20 target/
+
+../SpringDemos/spring-bookapp-mybatis/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:19 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:19 test/
+
+../SpringDemos/spring-bookapp-mybatis/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:19 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:19 resources/
+
+../SpringDemos/spring-bookapp-mybatis/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:19 com/
+
+../SpringDemos/spring-bookapp-mybatis/src/main/java/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:27 bookapp/
+
+../SpringDemos/spring-bookapp-mybatis/src/main/java/com/bookapp:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 332 Mar 21 10:19 SpringBookappMybatisApplication.java
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 10:27 exception/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 10:27 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 10:27 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 10:27 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 10:27 util/
+
+../SpringDemos/spring-bookapp-mybatis/src/main/java/com/bookapp/exception:
+total 2
+-rw-r--r-- 1 mohamed.ahmed 1049089 227 Mar 19 15:40 BookNotFoundException.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 222 Mar 19 15:40 IdNotFoundException.java
+
+../SpringDemos/spring-bookapp-mybatis/src/main/java/com/bookapp/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1765 Mar 19 15:40 Book.java
+
+../SpringDemos/spring-bookapp-mybatis/src/main/java/com/bookapp/repository:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089  596 Mar 19 16:37 BookMapper.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 2725 Mar 20 09:22 BookRepositoryImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  792 Mar 19 15:40 IBookRepository.java
+
+../SpringDemos/spring-bookapp-mybatis/src/main/java/com/bookapp/service:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 2000 Mar 19 16:32 BookServiceImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  780 Mar 19 15:40 IBookService.java
+
+../SpringDemos/spring-bookapp-mybatis/src/main/java/com/bookapp/util:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 541 Mar 19 15:40 BookDB.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 898 Mar 19 16:37 Queries.java
+
+../SpringDemos/spring-bookapp-mybatis/src/main/resources:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 47 Mar 21 10:19 application.properties
+
+../SpringDemos/spring-bookapp-mybatis/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:19 java/
+
+../SpringDemos/spring-bookapp-mybatis/src/test/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:19 com/
+
+../SpringDemos/spring-bookapp-mybatis/src/test/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:19 bookapp/
+
+../SpringDemos/spring-bookapp-mybatis/src/test/java/com/bookapp:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 217 Mar 21 10:19 SpringBookappMybatisApplicationTests.java
+
+../SpringDemos/spring-bookapp-mybatis/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:26 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:26 test-classes/
+
+../SpringDemos/spring-bookapp-mybatis/target/classes:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 21 10:26 META-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 47 Mar 21 10:26 application.properties
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 21 10:26 com/
+
+../SpringDemos/spring-bookapp-mybatis/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 174 Mar 21 10:26 MANIFEST.MF
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 10:26 maven/
+
+../SpringDemos/spring-bookapp-mybatis/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:26 com.bookapp/
+
+../SpringDemos/spring-bookapp-mybatis/target/classes/META-INF/maven/com.bookapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:26 spring-bookapp-mybatis/
+
+../SpringDemos/spring-bookapp-mybatis/target/classes/META-INF/maven/com.bookapp/spring-bookapp-mybatis:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  290 Mar 21 10:26 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 1981 Mar 21 10:26 pom.xml
+
+../SpringDemos/spring-bookapp-mybatis/target/classes/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:27 bookapp/
+
+../SpringDemos/spring-bookapp-mybatis/target/classes/com/bookapp:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 771 Mar 21 10:26 SpringBookappMybatisApplication.class
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 10:27 exception/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 10:27 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 10:27 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 10:27 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 10:27 util/
+
+../SpringDemos/spring-bookapp-mybatis/target/classes/com/bookapp/exception:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 510 Mar 21 10:27 BookNotFoundException.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 504 Mar 21 10:27 IdNotFoundException.class
+
+../SpringDemos/spring-bookapp-mybatis/target/classes/com/bookapp/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2300 Mar 21 10:27 Book.class
+
+../SpringDemos/spring-bookapp-mybatis/target/classes/com/bookapp/repository:
+total 16
+-rw-r--r-- 1 mohamed.ahmed 1049089 1494 Mar 21 10:27 BookMapper.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 5357 Mar 21 10:27 BookRepositoryImpl.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1186 Mar 21 10:27 IBookRepository.class
+
+../SpringDemos/spring-bookapp-mybatis/target/classes/com/bookapp/service:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 3121 Mar 21 10:27 BookServiceImpl.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1171 Mar 21 10:27 IBookService.class
+
+../SpringDemos/spring-bookapp-mybatis/target/classes/com/bookapp/util:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089  909 Mar 21 10:27 BookDB.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1023 Mar 21 10:27 Queries.class
+
+../SpringDemos/spring-bookapp-mybatis/target/test-classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:26 com/
+
+../SpringDemos/spring-bookapp-mybatis/target/test-classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:26 bookapp/
+
+../SpringDemos/spring-bookapp-mybatis/target/test-classes/com/bookapp:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 569 Mar 21 10:26 SpringBookappMybatisApplicationTests.class
+
+../SpringDemos/spring-boot-autowire:
+total 25
+-rw-r--r-- 1 mohamed.ahmed 1049089   429 Mar 19 10:51 HELP.md
+-rwxr-xr-x 1 mohamed.ahmed 1049089 11290 Mar 19 10:51 mvnw*
+-rw-r--r-- 1 mohamed.ahmed 1049089  7592 Mar 19 10:51 mvnw.cmd
+-rw-r--r-- 1 mohamed.ahmed 1049089  1390 Mar 19 10:51 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 19 10:51 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 19 10:54 target/
+
+../SpringDemos/spring-boot-autowire/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 10:51 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 10:51 test/
+
+../SpringDemos/spring-boot-autowire/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 10:51 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 10:51 resources/
+
+../SpringDemos/spring-boot-autowire/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 11:25 com/
+
+../SpringDemos/spring-boot-autowire/src/main/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 11:24 example/
+
+../SpringDemos/spring-boot-autowire/src/main/java/com/example:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 1011 Mar 19 12:11 SpringBootAutowireApplication.java
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 19 10:58 autowiring/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 19 11:41 javabase/
+
+../SpringDemos/spring-boot-autowire/src/main/java/com/example/autowiring:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 249 Mar 19 10:57 Rectangle.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  93 Mar 19 10:57 Shape.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 816 Mar 19 11:02 ShapeFactory.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 250 Mar 19 10:57 Square.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 251 Mar 19 10:57 Triangle.java
+
+../SpringDemos/spring-boot-autowire/src/main/java/com/example/javabase:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089  594 Mar 19 12:10 AppConfig.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  397 Mar 19 11:50 Chinese.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  118 Mar 19 11:25 IFoodMenu.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  381 Mar 19 11:50 Indian.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  386 Mar 19 11:50 Japanese.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1057 Mar 19 12:10 Waiter.java
+
+../SpringDemos/spring-boot-autowire/src/main/resources:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 45 Mar 19 10:51 application.properties
+
+../SpringDemos/spring-boot-autowire/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 10:51 java/
+
+../SpringDemos/spring-boot-autowire/src/test/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 10:51 com/
+
+../SpringDemos/spring-boot-autowire/src/test/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 10:51 example/
+
+../SpringDemos/spring-boot-autowire/src/test/java/com/example:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 215 Mar 19 10:51 SpringBootAutowireApplicationTests.java
+
+../SpringDemos/spring-boot-autowire/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 10:54 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 10:54 test-classes/
+
+../SpringDemos/spring-boot-autowire/target/classes:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 19 10:54 META-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 45 Mar 19 10:54 application.properties
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 19 11:25 com/
+
+../SpringDemos/spring-boot-autowire/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 172 Mar 21 10:26 MANIFEST.MF
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 10:54 maven/
+
+../SpringDemos/spring-boot-autowire/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 10:54 com.example/
+
+../SpringDemos/spring-boot-autowire/target/classes/META-INF/maven/com.example:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 10:54 spring-boot-autowire/
+
+../SpringDemos/spring-boot-autowire/target/classes/META-INF/maven/com.example/spring-boot-autowire:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  284 Mar 19 10:54 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 1390 Mar 19 10:54 pom.xml
+
+../SpringDemos/spring-boot-autowire/target/classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 11:24 example/
+
+../SpringDemos/spring-boot-autowire/target/classes/com/example:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 2038 Mar 19 12:11 SpringBootAutowireApplication.class
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 19 10:58 autowiring/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 19 11:42 javabase/
+
+../SpringDemos/spring-boot-autowire/target/classes/com/example/autowiring:
+total 17
+-rw-r--r-- 1 mohamed.ahmed 1049089  865 Mar 19 10:57 Rectangle.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  179 Mar 19 10:57 Shape.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1209 Mar 19 11:02 ShapeFactory.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  875 Mar 19 10:57 Square.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  876 Mar 19 10:57 Triangle.class
+
+../SpringDemos/spring-boot-autowire/target/classes/com/example/javabase:
+total 21
+-rw-r--r-- 1 mohamed.ahmed 1049089 1288 Mar 19 12:10 AppConfig.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  761 Mar 19 11:50 Chinese.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  221 Mar 19 11:25 IFoodMenu.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  739 Mar 19 11:50 Indian.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  751 Mar 19 11:50 Japanese.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1755 Mar 19 12:10 Waiter.class
+
+../SpringDemos/spring-boot-autowire/target/test-classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 10:54 com/
+
+../SpringDemos/spring-boot-autowire/target/test-classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 10:54 example/
+
+../SpringDemos/spring-boot-autowire/target/test-classes/com/example:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 563 Mar 19 10:54 SpringBootAutowireApplicationTests.class
+
+../SpringDemos/spring-greetapp-rest:
+total 28
+-rw-r--r-- 1 mohamed.ahmed 1049089   858 Mar 21 13:52 HELP.md
+-rwxr-xr-x 1 mohamed.ahmed 1049089 11290 Mar 21 13:52 mvnw*
+-rw-r--r-- 1 mohamed.ahmed 1049089  7592 Mar 21 13:52 mvnw.cmd
+-rw-r--r-- 1 mohamed.ahmed 1049089  1395 Mar 21 13:52 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 21 13:52 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 21 13:52 target/
+
+../SpringDemos/spring-greetapp-rest/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 13:52 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 13:52 test/
+
+../SpringDemos/spring-greetapp-rest/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 13:52 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 13:52 resources/
+
+../SpringDemos/spring-greetapp-rest/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 13:52 com/
+
+../SpringDemos/spring-greetapp-rest/src/main/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 13:53 greetapp/
+
+../SpringDemos/spring-greetapp-rest/src/main/java/com/greetapp:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 329 Mar 21 13:52 SpringGreetappRestApplication.java
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 13:55 controllers/
+
+../SpringDemos/spring-greetapp-rest/src/main/java/com/greetapp/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1122 Mar 21 14:22 GreetController.java
+
+../SpringDemos/spring-greetapp-rest/src/main/resources:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 61 Mar 21 14:26 application.properties
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 21 08:21 static/
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 21 08:21 templates/
+
+../SpringDemos/spring-greetapp-rest/src/main/resources/static:
+total 0
+
+../SpringDemos/spring-greetapp-rest/src/main/resources/templates:
+total 0
+
+../SpringDemos/spring-greetapp-rest/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 13:52 java/
+
+../SpringDemos/spring-greetapp-rest/src/test/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 13:52 com/
+
+../SpringDemos/spring-greetapp-rest/src/test/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 13:52 greetapp/
+
+../SpringDemos/spring-greetapp-rest/src/test/java/com/greetapp:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 216 Mar 21 13:52 SpringGreetappRestApplicationTests.java
+
+../SpringDemos/spring-greetapp-rest/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 13:53 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 13:53 test-classes/
+
+../SpringDemos/spring-greetapp-rest/target/classes:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 21 13:53 META-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 61 Mar 21 14:26 application.properties
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 21 13:53 com/
+
+../SpringDemos/spring-greetapp-rest/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 172 Mar 21 13:53 MANIFEST.MF
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 13:53 maven/
+
+../SpringDemos/spring-greetapp-rest/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 13:53 com.greetapp/
+
+../SpringDemos/spring-greetapp-rest/target/classes/META-INF/maven/com.greetapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 13:53 spring-greetapp-rest/
+
+../SpringDemos/spring-greetapp-rest/target/classes/META-INF/maven/com.greetapp/spring-greetapp-rest:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  285 Mar 21 13:53 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 1395 Mar 21 13:53 pom.xml
+
+../SpringDemos/spring-greetapp-rest/target/classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 13:53 greetapp/
+
+../SpringDemos/spring-greetapp-rest/target/classes/com/greetapp:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 767 Mar 21 13:53 SpringGreetappRestApplication.class
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 13:55 controllers/
+
+../SpringDemos/spring-greetapp-rest/target/classes/com/greetapp/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1845 Mar 21 14:22 GreetController.class
+
+../SpringDemos/spring-greetapp-rest/target/test-classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 13:53 com/
+
+../SpringDemos/spring-greetapp-rest/target/test-classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 13:53 greetapp/
+
+../SpringDemos/spring-greetapp-rest/target/test-classes/com/greetapp:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 565 Mar 21 13:53 SpringGreetappRestApplicationTests.class
+
+../SpringDemos/spring-insuranceapp-rest:
+total 28
+-rw-r--r-- 1 mohamed.ahmed 1049089   858 Mar 21 14:56 HELP.md
+-rwxr-xr-x 1 mohamed.ahmed 1049089 11290 Mar 21 14:56 mvnw*
+-rw-r--r-- 1 mohamed.ahmed 1049089  7592 Mar 21 14:56 mvnw.cmd
+-rw-r--r-- 1 mohamed.ahmed 1049089  1407 Mar 21 14:56 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 21 14:56 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 21 14:56 target/
+
+../SpringDemos/spring-insuranceapp-rest/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 14:56 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 14:56 test/
+
+../SpringDemos/spring-insuranceapp-rest/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 14:56 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 14:56 resources/
+
+../SpringDemos/spring-insuranceapp-rest/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 14:56 com/
+
+../SpringDemos/spring-insuranceapp-rest/src/main/java/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 15:00 insuranceapp/
+
+../SpringDemos/spring-insuranceapp-rest/src/main/java/com/insuranceapp:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 341 Mar 21 14:56 SpringInsuranceappRestApplication.java
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 14:57 controllers/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 14:57 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 15:03 service/
+
+../SpringDemos/spring-insuranceapp-rest/src/main/java/com/insuranceapp/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 806 Mar 21 15:27 InsuranceController.java
+
+../SpringDemos/spring-insuranceapp-rest/src/main/java/com/insuranceapp/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1542 Mar 21 15:22 Insurance.java
+
+../SpringDemos/spring-insuranceapp-rest/src/main/java/com/insuranceapp/service:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089 216 Mar 21 15:22 IInsuranceService.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 991 Mar 21 15:22 InsuranceServiceImpl.java
+
+../SpringDemos/spring-insuranceapp-rest/src/main/resources:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 49 Mar 21 14:56 application.properties
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 21 09:25 static/
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 21 09:25 templates/
+
+../SpringDemos/spring-insuranceapp-rest/src/main/resources/static:
+total 0
+
+../SpringDemos/spring-insuranceapp-rest/src/main/resources/templates:
+total 0
+
+../SpringDemos/spring-insuranceapp-rest/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 14:56 java/
+
+../SpringDemos/spring-insuranceapp-rest/src/test/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 14:56 com/
+
+../SpringDemos/spring-insuranceapp-rest/src/test/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 14:56 insuranceapp/
+
+../SpringDemos/spring-insuranceapp-rest/src/test/java/com/insuranceapp:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 224 Mar 21 14:56 SpringInsuranceappRestApplicationTests.java
+
+../SpringDemos/spring-insuranceapp-rest/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 14:56 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 14:56 test-classes/
+
+../SpringDemos/spring-insuranceapp-rest/target/classes:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 21 14:56 META-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 49 Mar 21 14:56 application.properties
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 21 14:56 com/
+
+../SpringDemos/spring-insuranceapp-rest/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 176 Mar 21 14:56 MANIFEST.MF
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 14:56 maven/
+
+../SpringDemos/spring-insuranceapp-rest/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 14:56 com.insuranceapp/
+
+../SpringDemos/spring-insuranceapp-rest/target/classes/META-INF/maven/com.insuranceapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 14:56 spring-insuranceapp-rest/
+
+../SpringDemos/spring-insuranceapp-rest/target/classes/META-INF/maven/com.insuranceapp/spring-insuranceapp-rest:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  301 Mar 21 14:56 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 1407 Mar 21 14:56 pom.xml
+
+../SpringDemos/spring-insuranceapp-rest/target/classes/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 15:00 insuranceapp/
+
+../SpringDemos/spring-insuranceapp-rest/target/classes/com/insuranceapp:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 787 Mar 21 14:56 SpringInsuranceappRestApplication.class
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 14:57 controllers/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 14:57 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 15:03 service/
+
+../SpringDemos/spring-insuranceapp-rest/target/classes/com/insuranceapp/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1306 Mar 21 15:27 InsuranceController.class
+
+../SpringDemos/spring-insuranceapp-rest/target/classes/com/insuranceapp/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2475 Mar 21 15:22 Insurance.class
+
+../SpringDemos/spring-insuranceapp-rest/target/classes/com/insuranceapp/service:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  357 Mar 21 15:22 IInsuranceService.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 2059 Mar 21 15:22 InsuranceServiceImpl.class
+
+../SpringDemos/spring-insuranceapp-rest/target/test-classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 14:56 com/
+
+../SpringDemos/spring-insuranceapp-rest/target/test-classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 14:56 insuranceapp/
+
+../SpringDemos/spring-insuranceapp-rest/target/test-classes/com/insuranceapp:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 585 Mar 21 14:56 SpringInsuranceappRestApplicationTests.class
+
+../SpringDemos/spring-insuranceapp-restmybatis:
+total 32
+-rw-r--r-- 1 mohamed.ahmed 1049089   939 Mar 21 15:37 HELP.md
+-rwxr-xr-x 1 mohamed.ahmed 1049089 11290 Mar 21 15:37 mvnw*
+-rw-r--r-- 1 mohamed.ahmed 1049089  7592 Mar 21 15:37 mvnw.cmd
+-rw-r--r-- 1 mohamed.ahmed 1049089  2558 Mar 22 16:47 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 21 15:37 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 22 16:00 target/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 15:37 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 15:37 test/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 15:37 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 15:37 resources/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 15:37 com/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/java/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 17:17 insuranceapp/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/java/com/insuranceapp:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 824 Mar 21 17:36 SpringInsuranceappRestmybatisApplication.java
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 17:17 controllers/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 11:43 exception/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 16:57 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 16:30 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 16:34 service/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/java/com/insuranceapp/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 3739 Mar 22 12:45 InsuranceController.java
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/java/com/insuranceapp/exception:
+total 9
+-rw-r--r-- 1 mohamed.ahmed 1049089 4107 Mar 22 12:20 GlobalExceptionHandler.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  334 Mar 21 16:45 InsuranceNotFoundException.java
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/java/com/insuranceapp/model:
+total 16
+-rw-r--r-- 1 mohamed.ahmed 1049089 1296 Mar 22 12:20 APIErrors.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1454 Mar 22 16:47 AppUser.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1612 Mar 22 17:18 AppUserMapper.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1638 Mar 22 11:00 Insurance.java
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/java/com/insuranceapp/repository:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089  503 Mar 22 16:47 IAppUserRepository.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1874 Mar 22 12:50 IInsuranceRepository.java
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/java/com/insuranceapp/service:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 1676 Mar 22 17:33 AppUserServiceImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  738 Mar 21 16:45 IInsuranceService.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 2745 Mar 21 16:45 InsuranceServiceImpl.java
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/resources:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 183 Mar 21 16:45 application.properties
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 10:06 static/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 10:06 templates/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/resources/static:
+total 0
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/main/resources/templates:
+total 0
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 15:37 java/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/test/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 15:37 com/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/test/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 15:37 insuranceapp/
+
+../SpringDemos/spring-insuranceapp-restmybatis/src/test/java/com/insuranceapp:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 231 Mar 21 15:37 SpringInsuranceappRestmybatisApplicationTests.java
+
+../SpringDemos/spring-insuranceapp-restmybatis/target:
+total 23780
+drwxr-xr-x 1 mohamed.ahmed 1049089        0 Mar 22 16:49 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089        0 Mar 22 15:59 generated-sources/
+drwxr-xr-x 1 mohamed.ahmed 1049089        0 Mar 22 15:59 generated-test-sources/
+-rw-r--r-- 1 mohamed.ahmed 1049089 24328838 Mar 22 15:59 insurance.jar
+drwxr-xr-x 1 mohamed.ahmed 1049089        0 Mar 22 15:59 maven-archiver/
+drwxr-xr-x 1 mohamed.ahmed 1049089        0 Mar 22 15:59 maven-status/
+-rw-r--r-- 1 mohamed.ahmed 1049089    13966 Mar 22 15:59 spring-insuranceapp-restmybatis-0.0.1-SNAPSHOT.jar.original
+drwxr-xr-x 1 mohamed.ahmed 1049089        0 Mar 22 15:59 surefire-reports/
+drwxr-xr-x 1 mohamed.ahmed 1049089        0 Mar 22 16:49 test-classes/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 16:49 META-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 183 Mar 22 16:49 application.properties
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 16:49 com/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 183 Mar 22 16:49 MANIFEST.MF
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 16:49 maven/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 16:49 com.insuranceapp/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/META-INF/maven/com.insuranceapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 16:49 spring-insuranceapp-restmybatis/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/META-INF/maven/com.insuranceapp/spring-insuranceapp-restmybatis:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  322 Mar 22 16:49 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 2558 Mar 22 16:49 pom.xml
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 16:49 insuranceapp/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/com/insuranceapp:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 808 Mar 22 16:49 SpringInsuranceappRestmybatisApplication.class
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 16:49 controllers/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 16:49 exception/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 16:57 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 16:49 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 16:49 service/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/com/insuranceapp/controllers:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 6526 Mar 22 16:49 InsuranceController.class
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/com/insuranceapp/exception:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 7270 Mar 22 16:49 GlobalExceptionHandler.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  542 Mar 22 16:49 InsuranceNotFoundException.class
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/com/insuranceapp/model:
+total 16
+-rw-r--r-- 1 mohamed.ahmed 1049089 2119 Mar 22 16:49 APIErrors.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 2580 Mar 22 16:49 AppUser.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 2454 Mar 22 17:18 AppUserMapper.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 2475 Mar 22 16:49 Insurance.class
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/com/insuranceapp/repository:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089  679 Mar 22 16:49 IAppUserRepository.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 2365 Mar 22 16:49 IInsuranceRepository.class
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/classes/com/insuranceapp/service:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 2540 Mar 22 17:33 AppUserServiceImpl.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1203 Mar 22 16:49 IInsuranceService.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 2959 Mar 22 16:49 InsuranceServiceImpl.class
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/generated-sources:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 15:59 annotations/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/generated-sources/annotations:
+total 0
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/generated-test-sources:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 15:59 test-annotations/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/generated-test-sources/test-annotations:
+total 0
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/maven-archiver:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 94 Mar 22 15:59 pom.properties
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/maven-status:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 15:59 maven-compiler-plugin/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/maven-status/maven-compiler-plugin:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 15:59 compile/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 15:59 testCompile/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/maven-status/maven-compiler-plugin/compile:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 15:59 default-compile/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089    0 Mar 22 15:59 createdFiles.lst
+-rw-r--r-- 1 mohamed.ahmed 1049089 1270 Mar 22 15:59 inputFiles.lst
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/maven-status/maven-compiler-plugin/testCompile:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 15:59 default-testCompile/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089   0 Mar 22 15:59 createdFiles.lst
+-rw-r--r-- 1 mohamed.ahmed 1049089 158 Mar 22 15:59 inputFiles.lst
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/surefire-reports:
+total 28
+-rw-r--r-- 1 mohamed.ahmed 1049089 23326 Mar 22 15:59 TEST-com.insuranceapp.SpringInsuranceappRestmybatisApplicationTests.xml
+-rw-r--r-- 1 mohamed.ahmed 1049089   377 Mar 22 15:59 com.insuranceapp.SpringInsuranceappRestmybatisApplicationTests.txt
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/test-classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 16:49 com/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/test-classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 16:49 insuranceapp/
+
+../SpringDemos/spring-insuranceapp-restmybatis/target/test-classes/com/insuranceapp:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 606 Mar 22 16:49 SpringInsuranceappRestmybatisApplicationTests.class
+
+../SpringDemos/spring-mvc-basic:
+total 32
+-rw-r--r-- 1 mohamed.ahmed 1049089   858 Mar 19 17:19 HELP.md
+-rwxr-xr-x 1 mohamed.ahmed 1049089 11290 Mar 19 17:19 mvnw*
+-rw-r--r-- 1 mohamed.ahmed 1049089  7592 Mar 19 17:19 mvnw.cmd
+-rw-r--r-- 1 mohamed.ahmed 1049089  1574 Mar 20 11:28 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 19 17:19 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 19 17:20 target/
+
+../SpringDemos/spring-mvc-basic/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 17:20 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 17:19 test/
+
+../SpringDemos/spring-mvc-basic/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 17:19 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 17:19 resources/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 10:31 webapp/
+
+../SpringDemos/spring-mvc-basic/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:20 com/
+
+../SpringDemos/spring-mvc-basic/src/main/java/com:
+total 8
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:20 doctorapp/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 10:07 example/
+
+../SpringDemos/spring-mvc-basic/src/main/java/com/doctorapp:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 938 Mar 20 10:00 DemoJdbcDoctorApplication.java
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:20 client/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:20 exceptions/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:20 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:20 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:20 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:20 util/
+
+../SpringDemos/spring-mvc-basic/src/main/java/com/doctorapp/client:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 632 Mar 15 16:04 User.java
+
+../SpringDemos/spring-mvc-basic/src/main/java/com/doctorapp/exceptions:
+total 2
+-rw-r--r-- 1 mohamed.ahmed 1049089 232 Mar 14 19:47 DoctorNotFoundException.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 220 Mar 14 19:47 IdNotFoundException.java
+
+../SpringDemos/spring-mvc-basic/src/main/java/com/doctorapp/model:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089 2247 Mar 15 15:47 Doctor.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  438 Mar 14 19:47 Specialization.java
+
+../SpringDemos/spring-mvc-basic/src/main/java/com/doctorapp/repository:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089  675 Mar 20 16:53 DoctorMapper.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 3323 Mar 20 16:53 DoctorRepositoryImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  761 Mar 14 19:47 IDoctorRepository.java
+
+../SpringDemos/spring-mvc-basic/src/main/java/com/doctorapp/service:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 3707 Mar 20 09:22 DoctorServiceImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  959 Mar 15 11:16 IDoctorService.java
+
+../SpringDemos/spring-mvc-basic/src/main/java/com/doctorapp/util:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089  588 Mar 14 19:47 DoctorDB.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1095 Mar 14 19:51 Queries.java
+
+../SpringDemos/spring-mvc-basic/src/main/java/com/example:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089 409 Mar 19 17:19 ServletInitializer.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 320 Mar 19 17:19 SpringMvcBasicApplication.java
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 10:07 controllers/
+
+../SpringDemos/spring-mvc-basic/src/main/java/com/example/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 804 Mar 20 10:38 GreatController.java
+
+../SpringDemos/spring-mvc-basic/src/main/resources:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 237 Mar 20 12:18 application.properties
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 11:49 static/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 11:49 templates/
+
+../SpringDemos/spring-mvc-basic/src/main/resources/static:
+total 0
+
+../SpringDemos/spring-mvc-basic/src/main/resources/templates:
+total 0
+
+../SpringDemos/spring-mvc-basic/src/main/webapp:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 10:31 WEB-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 339 Mar 20 11:29 index.jsp
+
+../SpringDemos/spring-mvc-basic/src/main/webapp/WEB-INF:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 10:32 views/
+
+../SpringDemos/spring-mvc-basic/src/main/webapp/WEB-INF/views:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 245 Mar 20 10:37 success.jsp
+
+../SpringDemos/spring-mvc-basic/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 17:19 java/
+
+../SpringDemos/spring-mvc-basic/src/test/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 17:19 com/
+
+../SpringDemos/spring-mvc-basic/src/test/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 17:19 example/
+
+../SpringDemos/spring-mvc-basic/src/test/java/com/example:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 211 Mar 19 17:19 SpringMvcBasicApplicationTests.java
+
+../SpringDemos/spring-mvc-basic/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:17 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 17:20 generated-sources/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 17:20 generated-test-sources/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 11:29 m2e-wtp/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:17 test-classes/
+
+../SpringDemos/spring-mvc-basic/target/classes:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 237 Mar 20 12:18 application.properties
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:20 com/
+
+../SpringDemos/spring-mvc-basic/target/classes/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:20 doctorapp/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:17 example/
+
+../SpringDemos/spring-mvc-basic/target/classes/com/doctorapp:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 1326 Mar 20 12:20 DemoJdbcDoctorApplication.class
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 20 12:20 client/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 20 12:20 exceptions/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 20 12:20 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 20 12:20 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 20 12:20 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 20 12:20 util/
+
+../SpringDemos/spring-mvc-basic/target/classes/com/doctorapp/client:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1080 Mar 20 12:20 User.class
+
+../SpringDemos/spring-mvc-basic/target/classes/com/doctorapp/exceptions:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 522 Mar 20 12:20 DoctorNotFoundException.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 510 Mar 20 12:20 IdNotFoundException.class
+
+../SpringDemos/spring-mvc-basic/target/classes/com/doctorapp/model:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 2824 Mar 20 12:20 Doctor.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1698 Mar 20 12:20 Specialization.class
+
+../SpringDemos/spring-mvc-basic/target/classes/com/doctorapp/repository:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 1114 Mar 20 16:54 DoctorMapper.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 3598 Mar 20 16:54 DoctorRepositoryImpl.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1370 Mar 20 12:20 IDoctorRepository.class
+
+../SpringDemos/spring-mvc-basic/target/classes/com/doctorapp/service:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 5542 Mar 20 12:20 DoctorServiceImpl.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1458 Mar 20 12:20 IDoctorService.class
+
+../SpringDemos/spring-mvc-basic/target/classes/com/doctorapp/util:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 1083 Mar 20 12:20 DoctorDB.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1238 Mar 20 12:20 Queries.class
+
+../SpringDemos/spring-mvc-basic/target/classes/com/example:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 910 Mar 20 12:17 ServletInitializer.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 753 Mar 20 12:17 SpringMvcBasicApplication.class
+
+../SpringDemos/spring-mvc-basic/target/generated-sources:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 17:20 annotations/
+
+../SpringDemos/spring-mvc-basic/target/generated-sources/annotations:
+total 0
+
+../SpringDemos/spring-mvc-basic/target/generated-test-sources:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 17:20 test-annotations/
+
+../SpringDemos/spring-mvc-basic/target/generated-test-sources/test-annotations:
+total 0
+
+../SpringDemos/spring-mvc-basic/target/m2e-wtp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 11:29 web-resources/
+
+../SpringDemos/spring-mvc-basic/target/m2e-wtp/web-resources:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 11:29 META-INF/
+
+../SpringDemos/spring-mvc-basic/target/m2e-wtp/web-resources/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 168 Mar 22 14:31 MANIFEST.MF
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 11:29 maven/
+
+../SpringDemos/spring-mvc-basic/target/m2e-wtp/web-resources/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 11:29 com.example/
+
+../SpringDemos/spring-mvc-basic/target/m2e-wtp/web-resources/META-INF/maven/com.example:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 11:29 spring-mvc-basic/
+
+../SpringDemos/spring-mvc-basic/target/m2e-wtp/web-resources/META-INF/maven/com.example/spring-mvc-basic:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  272 Mar 20 12:17 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 1574 Mar 20 12:17 pom.xml
+
+../SpringDemos/spring-mvc-basic/target/test-classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:17 com/
+
+../SpringDemos/spring-mvc-basic/target/test-classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:17 example/
+
+../SpringDemos/spring-mvc-basic/target/test-classes/com/example:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 551 Mar 20 12:17 SpringMvcBasicApplicationTests.class
+
+../SpringDemos/spring-mvc-doctorapp:
+total 28
+-rw-r--r-- 1 mohamed.ahmed 1049089  1161 Mar 20 12:07 HELP.md
+-rwxr-xr-x 1 mohamed.ahmed 1049089 11290 Mar 20 12:07 mvnw*
+-rw-r--r-- 1 mohamed.ahmed 1049089  7592 Mar 20 12:07 mvnw.cmd
+-rw-r--r-- 1 mohamed.ahmed 1049089  1881 Mar 20 12:14 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 20 12:07 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 20 12:08 target/
+
+../SpringDemos/spring-mvc-doctorapp/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:08 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:07 test/
+
+../SpringDemos/spring-mvc-doctorapp/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:07 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:07 resources/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 13:03 webapp/
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:07 com/
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 16:38 doctorapp/
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/com/doctorapp:
+total 9
+-rw-r--r-- 1 mohamed.ahmed 1049089 415 Mar 20 12:07 ServletInitializer.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 330 Mar 20 12:07 SpringMvcDoctorappApplication.java
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 14:32 controllers/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:25 exceptions/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:25 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:25 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:25 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:25 util/
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/com/doctorapp/controllers:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089  979 Mar 20 15:18 AdminController.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1891 Mar 21 14:23 DoctorController.java
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/com/doctorapp/exceptions:
+total 2
+-rw-r--r-- 1 mohamed.ahmed 1049089 239 Mar 20 15:52 DoctorNotFoundException.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 227 Mar 20 15:52 IdNotFoundException.java
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/com/doctorapp/model:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089 2247 Mar 15 15:47 Doctor.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  438 Mar 14 19:47 Specialization.java
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/com/doctorapp/repository:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089  677 Mar 20 16:43 DoctorMapper.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 3360 Mar 20 16:53 DoctorRepositoryImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  761 Mar 14 19:47 IDoctorRepository.java
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/com/doctorapp/service:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 3707 Mar 20 09:22 DoctorServiceImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  959 Mar 15 11:16 IDoctorService.java
+
+../SpringDemos/spring-mvc-doctorapp/src/main/java/com/doctorapp/util:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089  589 Mar 20 15:27 DoctorDB.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1095 Mar 14 19:51 Queries.java
+
+../SpringDemos/spring-mvc-doctorapp/src/main/resources:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 240 Mar 20 16:21 application.properties
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 06:36 static/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 06:36 templates/
+
+../SpringDemos/spring-mvc-doctorapp/src/main/resources/static:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/src/main/resources/templates:
+total 0
+
+../SpringDemos/spring-mvc-doctorapp/src/main/webapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:27 WEB-INF/
+
+../SpringDemos/spring-mvc-doctorapp/src/main/webapp/WEB-INF:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 15:08 views/
+
+../SpringDemos/spring-mvc-doctorapp/src/main/webapp/WEB-INF/views:
+total 13
+-rw-r--r-- 1 mohamed.ahmed 1049089 634 Mar 20 15:29 addDoctorForm.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 375 Mar 20 14:46 adminDash.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 360 Mar 20 16:35 deleteDoctorForm.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 358 Mar 20 16:35 editDoctorForm.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 506 Mar 20 17:16 home.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 404 Mar 20 14:56 login.jsp
+-rw-r--r-- 1 mohamed.ahmed 1049089 812 Mar 20 16:13 updateDoc.jsp
+
+../SpringDemos/spring-mvc-doctorapp/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:07 java/
+
+../SpringDemos/spring-mvc-doctorapp/src/test/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:07 com/
+
+../SpringDemos/spring-mvc-doctorapp/src/test/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:07 doctorapp/
+
+../SpringDemos/spring-mvc-doctorapp/src/test/java/com/doctorapp:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 217 Mar 20 12:07 SpringMvcDoctorappApplicationTests.java
+
+../SpringDemos/spring-mvc-doctorapp/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:14 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:14 m2e-wtp/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:14 test-classes/
+
+../SpringDemos/spring-mvc-doctorapp/target/classes:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 240 Mar 20 16:21 application.properties
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:14 com/
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 16:38 doctorapp/
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/com/doctorapp:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 920 Mar 20 12:14 ServletInitializer.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 769 Mar 20 12:14 SpringMvcDoctorappApplication.class
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 14:32 controllers/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:25 exceptions/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:25 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:25 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:25 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:25 util/
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/com/doctorapp/controllers:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 1644 Mar 20 15:18 AdminController.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 3051 Mar 21 14:23 DoctorController.class
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/com/doctorapp/exceptions:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 529 Mar 20 15:52 DoctorNotFoundException.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 517 Mar 20 15:52 IdNotFoundException.class
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/com/doctorapp/model:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 2824 Mar 20 12:25 Doctor.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1698 Mar 20 12:25 Specialization.class
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/com/doctorapp/repository:
+total 16
+-rw-r--r-- 1 mohamed.ahmed 1049089 1590 Mar 20 16:43 DoctorMapper.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 4988 Mar 20 16:53 DoctorRepositoryImpl.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1370 Mar 20 12:25 IDoctorRepository.class
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/com/doctorapp/service:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 5542 Mar 20 12:25 DoctorServiceImpl.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1458 Mar 20 12:25 IDoctorService.class
+
+../SpringDemos/spring-mvc-doctorapp/target/classes/com/doctorapp/util:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 1084 Mar 20 15:27 DoctorDB.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1238 Mar 20 12:25 Queries.class
+
+../SpringDemos/spring-mvc-doctorapp/target/m2e-wtp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:14 web-resources/
+
+../SpringDemos/spring-mvc-doctorapp/target/m2e-wtp/web-resources:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:14 META-INF/
+
+../SpringDemos/spring-mvc-doctorapp/target/m2e-wtp/web-resources/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 172 Mar 20 14:16 MANIFEST.MF
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 20 12:14 maven/
+
+../SpringDemos/spring-mvc-doctorapp/target/m2e-wtp/web-resources/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:14 com.example/
+
+../SpringDemos/spring-mvc-doctorapp/target/m2e-wtp/web-resources/META-INF/maven/com.example:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:14 spring-mvc-doctorapp/
+
+../SpringDemos/spring-mvc-doctorapp/target/m2e-wtp/web-resources/META-INF/maven/com.example/spring-mvc-doctorapp:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  284 Mar 20 14:16 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 1881 Mar 20 14:16 pom.xml
+
+../SpringDemos/spring-mvc-doctorapp/target/test-classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:14 com/
+
+../SpringDemos/spring-mvc-doctorapp/target/test-classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 20 12:14 doctorapp/
+
+../SpringDemos/spring-mvc-doctorapp/target/test-classes/com/doctorapp:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 567 Mar 20 12:14 SpringMvcDoctorappApplicationTests.class
+
+../SpringDemos/spring-productapp-mybatis:
+total 28
+-rw-r--r-- 1 mohamed.ahmed 1049089   592 Mar 21 10:33 HELP.md
+-rwxr-xr-x 1 mohamed.ahmed 1049089 11290 Mar 21 10:33 mvnw*
+-rw-r--r-- 1 mohamed.ahmed 1049089  7592 Mar 21 10:33 mvnw.cmd
+-rw-r--r-- 1 mohamed.ahmed 1049089  2015 Mar 21 19:13 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 21 10:33 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 21 10:33 target/
+
+../SpringDemos/spring-productapp-mybatis/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:33 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:33 test/
+
+../SpringDemos/spring-productapp-mybatis/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:33 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:33 resources/
+
+../SpringDemos/spring-productapp-mybatis/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:33 com/
+
+../SpringDemos/spring-productapp-mybatis/src/main/java/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 19:09 productapp/
+
+../SpringDemos/spring-productapp-mybatis/src/main/java/com/productapp:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1066 Mar 21 19:11 SpringProductappMybatisApplication.java
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 21 19:09 controllers/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 21 10:45 exception/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 21 10:36 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 21 10:51 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 21 10:49 service/
+
+../SpringDemos/spring-productapp-mybatis/src/main/java/com/productapp/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2211 Mar 22 09:44 ProductController.java
+
+../SpringDemos/spring-productapp-mybatis/src/main/java/com/productapp/exception:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 326 Mar 21 11:27 ProductNotFoundException.java
+
+../SpringDemos/spring-productapp-mybatis/src/main/java/com/productapp/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1409 Mar 21 12:24 Product.java
+
+../SpringDemos/spring-productapp-mybatis/src/main/java/com/productapp/repository:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1519 Mar 22 09:48 IProductRepository.java
+
+../SpringDemos/spring-productapp-mybatis/src/main/java/com/productapp/service:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089  666 Mar 21 11:54 IProductService.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1846 Mar 21 17:31 ProductServiceImpl.java
+
+../SpringDemos/spring-productapp-mybatis/src/main/resources:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 177 Mar 22 09:47 application.properties
+
+../SpringDemos/spring-productapp-mybatis/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:33 java/
+
+../SpringDemos/spring-productapp-mybatis/src/test/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:33 com/
+
+../SpringDemos/spring-productapp-mybatis/src/test/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 10:33 productapp/
+
+../SpringDemos/spring-productapp-mybatis/src/test/java/com/productapp:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 223 Mar 21 10:33 SpringProductappMybatisApplicationTests.java
+
+../SpringDemos/spring-productapp-mybatis/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 19:13 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 19:13 test-classes/
+
+../SpringDemos/spring-productapp-mybatis/target/classes:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 19:13 META-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 177 Mar 22 09:47 application.properties
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 19:13 com/
+
+../SpringDemos/spring-productapp-mybatis/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 183 Mar 21 19:13 MANIFEST.MF
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 19:13 maven/
+
+../SpringDemos/spring-productapp-mybatis/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 19:13 com.insuranceapp/
+
+../SpringDemos/spring-productapp-mybatis/target/classes/META-INF/maven/com.insuranceapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 19:13 spring-insuranceapp-restmybatis/
+
+../SpringDemos/spring-productapp-mybatis/target/classes/META-INF/maven/com.insuranceapp/spring-insuranceapp-restmybatis:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  310 Mar 21 19:13 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 2015 Mar 21 19:13 pom.xml
+
+../SpringDemos/spring-productapp-mybatis/target/classes/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 19:13 productapp/
+
+../SpringDemos/spring-productapp-mybatis/target/classes/com/productapp:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 786 Mar 21 19:13 SpringProductappMybatisApplication.class
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 19:13 controllers/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 19:13 exception/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 19:13 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 19:13 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 21 19:13 service/
+
+../SpringDemos/spring-productapp-mybatis/target/classes/com/productapp/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 3274 Mar 22 09:44 ProductController.class
+
+../SpringDemos/spring-productapp-mybatis/target/classes/com/productapp/exception:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 532 Mar 21 19:13 ProductNotFoundException.class
+
+../SpringDemos/spring-productapp-mybatis/target/classes/com/productapp/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2150 Mar 21 19:13 Product.class
+
+../SpringDemos/spring-productapp-mybatis/target/classes/com/productapp/repository:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1997 Mar 22 09:48 IProductRepository.class
+
+../SpringDemos/spring-productapp-mybatis/target/classes/com/productapp/service:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 1080 Mar 21 19:13 IProductService.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 2788 Mar 21 19:13 ProductServiceImpl.class
+
+../SpringDemos/spring-productapp-mybatis/target/test-classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 19:13 com/
+
+../SpringDemos/spring-productapp-mybatis/target/test-classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 21 19:13 productapp/
+
+../SpringDemos/spring-productapp-mybatis/target/test-classes/com/productapp:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 584 Mar 21 19:13 SpringProductappMybatisApplicationTests.class
+
+../SpringDemos/spring-security-inmem:
+total 28
+-rw-r--r-- 1 mohamed.ahmed 1049089  1217 Mar 22 14:32 HELP.md
+-rwxr-xr-x 1 mohamed.ahmed 1049089 11290 Mar 22 14:32 mvnw*
+-rw-r--r-- 1 mohamed.ahmed 1049089  7592 Mar 22 14:32 mvnw.cmd
+-rw-r--r-- 1 mohamed.ahmed 1049089  1686 Mar 22 14:32 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 22 14:32 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089     0 Mar 22 14:32 target/
+
+../SpringDemos/spring-security-inmem/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 14:32 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 14:32 test/
+
+../SpringDemos/spring-security-inmem/src/main:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 14:32 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 14:36 resources/
+
+../SpringDemos/spring-security-inmem/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 14:32 com/
+
+../SpringDemos/spring-security-inmem/src/main/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 14:43 example/
+
+../SpringDemos/spring-security-inmem/src/main/java/com/example:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 330 Mar 22 14:32 SpringSecurityInmemApplication.java
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 14:43 config/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 14:33 controllers/
+
+../SpringDemos/spring-security-inmem/src/main/java/com/example/config:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1945 Mar 22 15:15 WebConfig.java
+
+../SpringDemos/spring-security-inmem/src/main/java/com/example/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 638 Mar 22 14:40 GreetController.java
+
+../SpringDemos/spring-security-inmem/src/main/resources:
+total 2
+-rw-r--r-- 1 mohamed.ahmed 1049089 46 Mar 22 15:15 application.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 96 Mar 22 14:37 application.yml
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 22 08:45 static/
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 22 08:45 templates/
+
+../SpringDemos/spring-security-inmem/src/main/resources/static:
+total 0
+
+../SpringDemos/spring-security-inmem/src/main/resources/templates:
+total 0
+
+../SpringDemos/spring-security-inmem/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 14:32 java/
+
+../SpringDemos/spring-security-inmem/src/test/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 14:32 com/
+
+../SpringDemos/spring-security-inmem/src/test/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 14:32 example/
+
+../SpringDemos/spring-security-inmem/src/test/java/com/example:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 216 Mar 22 14:32 SpringSecurityInmemApplicationTests.java
+
+../SpringDemos/spring-security-inmem/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 14:36 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 14:32 test-classes/
+
+../SpringDemos/spring-security-inmem/target/classes:
+total 2
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 22 14:32 META-INF/
+-rw-r--r-- 1 mohamed.ahmed 1049089 46 Mar 22 14:32 application.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 96 Mar 22 14:37 application.yml
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Mar 22 14:32 com/
+
+../SpringDemos/spring-security-inmem/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 173 Mar 22 14:32 MANIFEST.MF
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 14:32 maven/
+
+../SpringDemos/spring-security-inmem/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 14:32 com.example/
+
+../SpringDemos/spring-security-inmem/target/classes/META-INF/maven/com.example:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 14:32 spring-security-inmem/
+
+../SpringDemos/spring-security-inmem/target/classes/META-INF/maven/com.example/spring-security-inmem:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  287 Mar 22 14:32 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 1686 Mar 22 14:32 pom.xml
+
+../SpringDemos/spring-security-inmem/target/classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 14:43 example/
+
+../SpringDemos/spring-security-inmem/target/classes/com/example:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 768 Mar 22 14:32 SpringSecurityInmemApplication.class
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 14:43 config/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 22 14:33 controllers/
+
+../SpringDemos/spring-security-inmem/target/classes/com/example/config:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 6710 Mar 22 15:15 WebConfig.class
+
+../SpringDemos/spring-security-inmem/target/classes/com/example/controllers:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1147 Mar 22 14:40 GreetController.class
+
+../SpringDemos/spring-security-inmem/target/test-classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 14:32 com/
+
+../SpringDemos/spring-security-inmem/target/test-classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 22 14:32 example/
+
+../SpringDemos/spring-security-inmem/target/test-classes/com/example:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 566 Mar 22 14:32 SpringSecurityInmemApplicationTests.class
+
+../intellijdemos:
+total 12
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:33 BookApp/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:25 BookMavenJdbc/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Feb 29 10:04 DemoProject/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 13:48 Javademos/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Feb 29 10:17 OopsDemos/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 19:11 javademos2/
+
+../intellijdemos/BookApp:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 455 Mar 19 12:33 BookApp.iml
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 12:29 src/
+
+../intellijdemos/BookApp/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:29 com/
+
+../intellijdemos/BookApp/src/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 13:07 bookapp/
+
+../intellijdemos/BookApp/src/com/bookapp:
+total 8
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 13:08 client/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:44 exception/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 12:35 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 13:06 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 13:06 util/
+
+../intellijdemos/BookApp/src/com/bookapp/client:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 3141 Mar 19 13:08 Client.java
+
+../intellijdemos/BookApp/src/com/bookapp/exception:
+total 2
+-rw-r--r-- 1 mohamed.ahmed 1049089 223 Mar 19 12:44 BookNotFoundException.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 218 Mar 19 12:44 IdNotFoundException.java
+
+../intellijdemos/BookApp/src/com/bookapp/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1562 Mar 19 12:35 Book.java
+
+../intellijdemos/BookApp/src/com/bookapp/service:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 3551 Mar 19 13:06 BookServiceImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  745 Mar 19 12:58 IBookService.java
+
+../intellijdemos/BookApp/src/com/bookapp/util:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 641 Mar 19 13:06 BookDetails.java
+
+../intellijdemos/BookMavenJdbc:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 579 Mar 19 14:25 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 19 14:25 src/
+
+../intellijdemos/BookMavenJdbc/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:25 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:25 test/
+
+../intellijdemos/BookMavenJdbc/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:27 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:25 resources/
+
+../intellijdemos/BookMavenJdbc/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:29 com/
+
+../intellijdemos/BookMavenJdbc/src/main/java/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:31 bookapp/
+
+../intellijdemos/BookMavenJdbc/src/main/java/com/bookapp:
+total 12
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:27 client/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:34 exception/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:31 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:40 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 15:51 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:28 util/
+
+../intellijdemos/BookMavenJdbc/src/main/java/com/bookapp/client:
+total 0
+
+../intellijdemos/BookMavenJdbc/src/main/java/com/bookapp/exception:
+total 2
+-rw-r--r-- 1 mohamed.ahmed 1049089 223 Mar 19 14:34 BookNotFoundException.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 217 Mar 19 14:34 IdNotFoundException.java
+
+../intellijdemos/BookMavenJdbc/src/main/java/com/bookapp/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1712 Mar 19 14:31 Book.java
+
+../intellijdemos/BookMavenJdbc/src/main/java/com/bookapp/repository:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 2354 Mar 19 14:40 BookRepositoryImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  786 Mar 19 14:38 IBookRepository.java
+
+../intellijdemos/BookMavenJdbc/src/main/java/com/bookapp/service:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 1404 Mar 19 15:51 BookServiceImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  774 Mar 19 14:34 IBookService.java
+
+../intellijdemos/BookMavenJdbc/src/main/java/com/bookapp/util:
+total 0
+
+../intellijdemos/BookMavenJdbc/src/main/resources:
+total 0
+
+../intellijdemos/BookMavenJdbc/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 19 14:25 java/
+
+../intellijdemos/BookMavenJdbc/src/test/java:
+total 0
+
+../intellijdemos/DemoProject:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 433 Feb 29 10:04 DemoProject.iml
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Feb 29 10:09 src/
+
+../intellijdemos/DemoProject/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Feb 29 10:08 com/
+
+../intellijdemos/DemoProject/src/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Feb 29 10:08 voya/
+
+../intellijdemos/DemoProject/src/com/voya:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Feb 29 10:18 training/
+
+../intellijdemos/DemoProject/src/com/voya/training:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 154 Feb 29 10:18 Trial.java
+
+../intellijdemos/Javademos:
+total 16
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 14 13:03 Assignments/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 14 13:03 BookMavenJdbc/
+-rw-r--r-- 1 mohamed.ahmed 1049089 1094 Mar 14 13:04 BookMavenJdbc.iml
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 14 13:03 DoctorMavenJDBC/
+-rw-r--r-- 1 mohamed.ahmed 1049089 1108 Mar 14 13:04 DoctorMavenJDBC.iml
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 14 13:03 JDBCDemos/
+-rw-r--r-- 1 mohamed.ahmed 1049089 1066 Mar 14 13:04 JDBCDemos.iml
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 11 10:38 JUnitDemos/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 11 10:44 JUnitDemos1/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 14 13:03 MavenDemo/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 14 13:03 VoterApp/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Feb 29 10:34 out/
+
+../intellijdemos/Javademos/Assignments:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Feb 29 18:56 src/
+
+../intellijdemos/Javademos/Assignments/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 13:03 com/
+
+../intellijdemos/Javademos/Assignments/src/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  1 10:52 object/
+
+../intellijdemos/Javademos/Assignments/src/com/object:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  1 10:52 overriding/
+
+../intellijdemos/Javademos/Assignments/src/com/object/overriding:
+total 0
+
+../intellijdemos/Javademos/BookMavenJdbc:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 18:49 src/
+
+../intellijdemos/Javademos/BookMavenJdbc/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 18:49 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 18:49 test/
+
+../intellijdemos/Javademos/BookMavenJdbc/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 18:52 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 18:49 resources/
+
+../intellijdemos/Javademos/BookMavenJdbc/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 18:52 com/
+
+../intellijdemos/Javademos/BookMavenJdbc/src/main/java/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 13:03 bookapp/
+
+../intellijdemos/Javademos/BookMavenJdbc/src/main/java/com/bookapp:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 18:52 client/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 13:03 service/
+
+../intellijdemos/Javademos/BookMavenJdbc/src/main/java/com/bookapp/client:
+total 0
+
+../intellijdemos/Javademos/BookMavenJdbc/src/main/java/com/bookapp/service:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1227 Mar 14 13:03 BookServiceImpl.java
+
+../intellijdemos/Javademos/BookMavenJdbc/src/main/resources:
+total 0
+
+../intellijdemos/Javademos/BookMavenJdbc/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 18:49 java/
+
+../intellijdemos/Javademos/BookMavenJdbc/src/test/java:
+total 0
+
+../intellijdemos/Javademos/DoctorMavenJDBC:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  8 10:46 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  8 12:48 target/
+
+../intellijdemos/Javademos/DoctorMavenJDBC/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  8 10:46 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  8 10:46 test/
+
+../intellijdemos/Javademos/DoctorMavenJDBC/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  8 10:49 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  8 10:46 resources/
+
+../intellijdemos/Javademos/DoctorMavenJDBC/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  8 10:49 org/
+
+../intellijdemos/Javademos/DoctorMavenJDBC/src/main/java/org:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 13:03 doctorapp/
+
+../intellijdemos/Javademos/DoctorMavenJDBC/src/main/java/org/doctorapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 13:03 client/
+
+../intellijdemos/Javademos/DoctorMavenJDBC/src/main/java/org/doctorapp/client:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 3395 Mar 14 13:03 User.java
+
+../intellijdemos/Javademos/DoctorMavenJDBC/src/main/resources:
+total 0
+
+../intellijdemos/Javademos/DoctorMavenJDBC/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  8 10:46 java/
+
+../intellijdemos/Javademos/DoctorMavenJDBC/src/test/java:
+total 0
+
+../intellijdemos/Javademos/DoctorMavenJDBC/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  8 12:48 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  8 12:48 generated-sources/
+
+../intellijdemos/Javademos/DoctorMavenJDBC/target/classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  8 12:48 org/
+
+../intellijdemos/Javademos/DoctorMavenJDBC/target/classes/org:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 13:03 doctorapp/
+
+../intellijdemos/Javademos/DoctorMavenJDBC/target/classes/org/doctorapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 13:03 client/
+
+../intellijdemos/Javademos/DoctorMavenJDBC/target/classes/org/doctorapp/client:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 4332 Mar 14 13:03 User.class
+
+../intellijdemos/Javademos/DoctorMavenJDBC/target/generated-sources:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  8 12:48 annotations/
+
+../intellijdemos/Javademos/DoctorMavenJDBC/target/generated-sources/annotations:
+total 0
+
+../intellijdemos/Javademos/JDBCDemos:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 11:46 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 13:03 target/
+
+../intellijdemos/Javademos/JDBCDemos/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 11:46 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 11:46 test/
+
+../intellijdemos/Javademos/JDBCDemos/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 11:48 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 11:46 resources/
+
+../intellijdemos/Javademos/JDBCDemos/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 13:03 com/
+
+../intellijdemos/Javademos/JDBCDemos/src/main/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 15:37 training/
+
+../intellijdemos/Javademos/JDBCDemos/src/main/java/com/training:
+total 0
+
+../intellijdemos/Javademos/JDBCDemos/src/main/resources:
+total 0
+
+../intellijdemos/Javademos/JDBCDemos/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 11:46 java/
+
+../intellijdemos/Javademos/JDBCDemos/src/test/java:
+total 0
+
+../intellijdemos/Javademos/JDBCDemos/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 12:00 generated-sources/
+
+../intellijdemos/Javademos/JDBCDemos/target/generated-sources:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 12:00 annotations/
+
+../intellijdemos/Javademos/JDBCDemos/target/generated-sources/annotations:
+total 0
+
+../intellijdemos/Javademos/JUnitDemos:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:27 src/
+
+../intellijdemos/Javademos/JUnitDemos/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:27 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:27 test/
+
+../intellijdemos/Javademos/JUnitDemos/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:27 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:27 resources/
+
+../intellijdemos/Javademos/JUnitDemos/src/main/java:
+total 0
+
+../intellijdemos/Javademos/JUnitDemos/src/main/resources:
+total 0
+
+../intellijdemos/Javademos/JUnitDemos/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:27 java/
+
+../intellijdemos/Javademos/JUnitDemos/src/test/java:
+total 0
+
+../intellijdemos/Javademos/JUnitDemos1:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 426 Mar 11 10:44 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 11 10:43 src/
+
+../intellijdemos/Javademos/JUnitDemos1/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:43 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:43 test/
+
+../intellijdemos/Javademos/JUnitDemos1/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:43 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:43 resources/
+
+../intellijdemos/Javademos/JUnitDemos1/src/main/java:
+total 0
+
+../intellijdemos/Javademos/JUnitDemos1/src/main/resources:
+total 0
+
+../intellijdemos/Javademos/JUnitDemos1/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:43 java/
+
+../intellijdemos/Javademos/JUnitDemos1/src/test/java:
+total 0
+
+../intellijdemos/Javademos/MavenDemo:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 1547 Mar 14 13:03 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar  7 10:33 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 14 13:03 target/
+
+../intellijdemos/Javademos/MavenDemo/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 13:03 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 10:33 test/
+
+../intellijdemos/Javademos/MavenDemo/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 10:33 resources/
+
+../intellijdemos/Javademos/MavenDemo/src/main/resources:
+total 0
+
+../intellijdemos/Javademos/MavenDemo/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 10:33 java/
+
+../intellijdemos/Javademos/MavenDemo/src/test/java:
+total 0
+
+../intellijdemos/Javademos/MavenDemo/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 14:44 generated-sources/
+
+../intellijdemos/Javademos/MavenDemo/target/generated-sources:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 14:44 annotations/
+
+../intellijdemos/Javademos/MavenDemo/target/generated-sources/annotations:
+total 0
+
+../intellijdemos/Javademos/VoterApp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  6 09:19 src/
+
+../intellijdemos/Javademos/VoterApp/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  6 09:19 com/
+
+../intellijdemos/Javademos/VoterApp/src/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 13:03 voterapp/
+
+../intellijdemos/Javademos/VoterApp/src/com/voterapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  6 09:20 client/
+
+../intellijdemos/Javademos/VoterApp/src/com/voterapp/client:
+total 0
+
+../intellijdemos/Javademos/out:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 13:03 production/
+
+../intellijdemos/Javademos/out/production:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  6 16:42 Assignments/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  6 16:42 ExceptionDemos/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  6 16:42 InterfaceDemos/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  6 16:42 JavaApiDemos/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  6 16:42 MultiThreadingDemos/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  6 16:42 UserApp/
+
+../intellijdemos/Javademos/out/production/Assignments:
+total 0
+
+../intellijdemos/Javademos/out/production/ExceptionDemos:
+total 0
+
+../intellijdemos/Javademos/out/production/InterfaceDemos:
+total 0
+
+../intellijdemos/Javademos/out/production/JavaApiDemos:
+total 0
+
+../intellijdemos/Javademos/out/production/MultiThreadingDemos:
+total 0
+
+../intellijdemos/Javademos/out/production/UserApp:
+total 0
+
+../intellijdemos/OopsDemos:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 433 Feb 29 10:17 OopsDemos.iml
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Feb 29 10:15 src/
+
+../intellijdemos/OopsDemos/src:
+total 0
+
+../intellijdemos/javademos2:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 15 15:53 DoctorMavenJDBC/
+-rw-r--r-- 1 mohamed.ahmed 1049089 941 Mar 14 19:11 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 14 19:07 src/
+
+../intellijdemos/javademos2/DoctorMavenJDBC:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 924 Mar 14 19:11 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 14 19:11 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 15 15:53 target/
+
+../intellijdemos/javademos2/DoctorMavenJDBC/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 19:11 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 19:11 test/
+
+../intellijdemos/javademos2/DoctorMavenJDBC/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 19:12 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 19:11 resources/
+
+../intellijdemos/javademos2/DoctorMavenJDBC/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 19:12 com/
+
+../intellijdemos/javademos2/DoctorMavenJDBC/src/main/java/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 19:14 doctorapp/
+
+../intellijdemos/javademos2/DoctorMavenJDBC/src/main/java/com/doctorapp:
+total 16
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 16:04 client/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 19:47 exceptions/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 15:47 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 15:59 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 11:16 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 19:51 util/
+
+../intellijdemos/javademos2/DoctorMavenJDBC/src/main/java/com/doctorapp/client:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 632 Mar 15 16:04 User.java
+
+../intellijdemos/javademos2/DoctorMavenJDBC/src/main/java/com/doctorapp/exceptions:
+total 2
+-rw-r--r-- 1 mohamed.ahmed 1049089 232 Mar 14 19:47 DoctorNotFoundException.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 220 Mar 14 19:47 IdNotFoundException.java
+
+../intellijdemos/javademos2/DoctorMavenJDBC/src/main/java/com/doctorapp/model:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089 2247 Mar 15 15:47 Doctor.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  438 Mar 14 19:47 Specialization.java
+
+../intellijdemos/javademos2/DoctorMavenJDBC/src/main/java/com/doctorapp/repository:
+total 16
+-rw-r--r-- 1 mohamed.ahmed 1049089 10160 Mar 15 15:59 DoctorRepositoryImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089   761 Mar 14 19:47 IDoctorRepository.java
+
+../intellijdemos/javademos2/DoctorMavenJDBC/src/main/java/com/doctorapp/service:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 3546 Mar 15 11:16 DoctorServiceImpl.java
+-rw-r--r-- 1 mohamed.ahmed 1049089  959 Mar 15 11:16 IDoctorService.java
+
+../intellijdemos/javademos2/DoctorMavenJDBC/src/main/java/com/doctorapp/util:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089  588 Mar 14 19:47 DoctorDB.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1095 Mar 14 19:51 Queries.java
+
+../intellijdemos/javademos2/DoctorMavenJDBC/src/main/resources:
+total 0
+
+../intellijdemos/javademos2/DoctorMavenJDBC/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 19:11 java/
+
+../intellijdemos/javademos2/DoctorMavenJDBC/src/test/java:
+total 0
+
+../intellijdemos/javademos2/DoctorMavenJDBC/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 15:53 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 15:53 generated-sources/
+
+../intellijdemos/javademos2/DoctorMavenJDBC/target/classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 15:53 com/
+
+../intellijdemos/javademos2/DoctorMavenJDBC/target/classes/com:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 16:04 doctorapp/
+
+../intellijdemos/javademos2/DoctorMavenJDBC/target/classes/com/doctorapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 16:04 client/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 15:53 exceptions/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 15:53 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 15:59 repository/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 15:53 service/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 15:53 util/
+
+../intellijdemos/javademos2/DoctorMavenJDBC/target/classes/com/doctorapp/client:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1050 Mar 15 16:04 User.class
+
+../intellijdemos/javademos2/DoctorMavenJDBC/target/classes/com/doctorapp/exceptions:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 492 Mar 15 15:53 DoctorNotFoundException.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 480 Mar 15 15:53 IdNotFoundException.class
+
+../intellijdemos/javademos2/DoctorMavenJDBC/target/classes/com/doctorapp/model:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 2746 Mar 15 15:53 Doctor.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1647 Mar 15 15:53 Specialization.class
+
+../intellijdemos/javademos2/DoctorMavenJDBC/target/classes/com/doctorapp/repository:
+total 16
+-rw-r--r-- 1 mohamed.ahmed 1049089 10975 Mar 15 15:59 DoctorRepositoryImpl.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  1156 Mar 15 15:53 IDoctorRepository.class
+
+../intellijdemos/javademos2/DoctorMavenJDBC/target/classes/com/doctorapp/service:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 5395 Mar 15 15:53 DoctorServiceImpl.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1244 Mar 15 15:53 IDoctorService.class
+
+../intellijdemos/javademos2/DoctorMavenJDBC/target/classes/com/doctorapp/util:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 1087 Mar 15 15:53 DoctorDB.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1238 Mar 15 15:53 Queries.class
+
+../intellijdemos/javademos2/DoctorMavenJDBC/target/generated-sources:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 15 15:53 annotations/
+
+../intellijdemos/javademos2/DoctorMavenJDBC/target/generated-sources/annotations:
+total 0
+
+../intellijdemos/javademos2/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 19:07 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 19:07 test/
+
+../intellijdemos/javademos2/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 19:07 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 19:07 resources/
+
+../intellijdemos/javademos2/src/main/java:
+total 0
+
+../intellijdemos/javademos2/src/main/resources:
+total 0
+
+../intellijdemos/javademos2/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 19:07 java/
+
+../intellijdemos/javademos2/src/test/java:
+total 0
+
+../intellijdemos1:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 14 19:07 javademos1/
+
+../intellijdemos1/javademos1:
+total 0
+
+../javademo:
+total 24
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Feb 28 14:07 BasicDemo/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:46 JUnitDemos/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 14:53 MavenDemo/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:47 MockitoDemos/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Feb 28 17:28 OOpsDemos/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 10:48 Servers/
+
+../javademo/BasicDemo:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:46 bin/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Feb 28 14:17 src/
+
+../javademo/BasicDemo/bin:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 11 10:46 com/
+-rw-r--r-- 1 mohamed.ahmed 1049089 148 Mar 11 10:46 module-info.class
+
+../javademo/BasicDemo/bin/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:46 voya/
+
+../javademo/BasicDemo/bin/com/voya:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:46 training/
+
+../javademo/BasicDemo/bin/com/voya/training:
+total 40
+-rw-r--r-- 1 mohamed.ahmed 1049089  590 Mar 11 10:46 FirstDemo.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  653 Mar 11 10:46 Fordemo.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  754 Mar 11 10:46 Greater.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  789 Mar 11 10:46 Ifdemo.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1227 Mar 11 10:46 Login.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  776 Mar 11 10:46 Onedim.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1255 Mar 11 10:46 Registration.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1140 Mar 11 10:46 Scandemo.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  791 Mar 11 10:46 Ternary.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1262 Mar 11 10:46 Twodim.class
+
+../javademo/BasicDemo/src:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Feb 28 14:17 com/
+-rw-r--r-- 1 mohamed.ahmed 1049089 21 Feb 28 14:07 module-info.java
+
+../javademo/BasicDemo/src/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Feb 28 14:17 voya/
+
+../javademo/BasicDemo/src/com/voya:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Feb 28 17:25 training/
+
+../javademo/BasicDemo/src/com/voya/training:
+total 22
+-rw-r--r-- 1 mohamed.ahmed 1049089 183 Feb 28 14:22 FirstDemo.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 375 Feb 28 14:58 Fordemo.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 338 Feb 28 14:34 Greater.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 269 Feb 28 15:14 Ifdemo.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 549 Feb 29 09:43 Login.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 416 Feb 28 16:01 Onedim.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 563 Feb 28 17:12 Registration.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 578 Feb 28 15:43 Scandemo.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 255 Feb 28 14:46 Ternary.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 561 Feb 28 16:35 Twodim.java
+
+../javademo/JUnitDemos:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1772 Mar 11 14:40 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 11 10:46 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 11 10:46 target/
+
+../javademo/JUnitDemos/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:46 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:46 test/
+
+../javademo/JUnitDemos/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:55 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:46 resources/
+
+../javademo/JUnitDemos/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:55 com/
+
+../javademo/JUnitDemos/src/main/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 13:51 voya/
+
+../javademo/JUnitDemos/src/main/java/com/voya:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 12:48 exceptions/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 13:51 testcases/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 12:15 training/
+
+../javademo/JUnitDemos/src/main/java/com/voya/exceptions:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 310 Mar 11 12:50 InvalidNumException.java
+
+../javademo/JUnitDemos/src/main/java/com/voya/testcases:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 13:51 trail/
+
+../javademo/JUnitDemos/src/main/java/com/voya/testcases/trail:
+total 0
+
+../javademo/JUnitDemos/src/main/java/com/voya/training:
+total 2
+-rw-r--r-- 1 mohamed.ahmed 1049089 449 Mar 11 12:04 Calculator.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 471 Mar 11 12:56 StudentDetails.java
+
+../javademo/JUnitDemos/src/main/resources:
+total 0
+
+../javademo/JUnitDemos/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 11:32 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:46 resources/
+
+../javademo/JUnitDemos/src/test/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 11:32 com/
+
+../javademo/JUnitDemos/src/test/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 14:52 voya/
+
+../javademo/JUnitDemos/src/test/java/com/voya:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 14:09 sample/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 12:19 studtestcases/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 14:52 testcases/
+
+../javademo/JUnitDemos/src/test/java/com/voya/sample:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1007 Mar 11 15:13 AllTests.java
+
+../javademo/JUnitDemos/src/test/java/com/voya/studtestcases:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1280 Mar 11 17:31 StudentTest.java
+
+../javademo/JUnitDemos/src/test/java/com/voya/testcases:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2004 Mar 11 15:07 CalculatorTest.java
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 11 14:55 greet/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 11 13:53 trail/
+
+../javademo/JUnitDemos/src/test/java/com/voya/testcases/greet:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 631 Mar 11 14:55 GreetTest.java
+
+../javademo/JUnitDemos/src/test/java/com/voya/testcases/trail:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1316 Mar 11 15:07 CheckTest.java
+
+../javademo/JUnitDemos/src/test/resources:
+total 0
+
+../javademo/JUnitDemos/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:07 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:07 test-classes/
+
+../javademo/JUnitDemos/target/classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:07 META-INF/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:07 com/
+
+../javademo/JUnitDemos/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 113 Mar 11 15:07 MANIFEST.MF
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 11 15:07 maven/
+
+../javademo/JUnitDemos/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:07 com.voya.dist/
+
+../javademo/JUnitDemos/target/classes/META-INF/maven/com.voya.dist:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:07 JUnitDemos/
+
+../javademo/JUnitDemos/target/classes/META-INF/maven/com.voya.dist/JUnitDemos:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  253 Mar 11 15:07 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 1772 Mar 11 15:07 pom.xml
+
+../javademo/JUnitDemos/target/classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:07 voya/
+
+../javademo/JUnitDemos/target/classes/com/voya:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:07 exceptions/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:07 testcases/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:07 training/
+
+../javademo/JUnitDemos/target/classes/com/voya/exceptions:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 477 Mar 11 15:07 InvalidNumException.class
+
+../javademo/JUnitDemos/target/classes/com/voya/testcases:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:07 trail/
+
+../javademo/JUnitDemos/target/classes/com/voya/testcases/trail:
+total 0
+
+../javademo/JUnitDemos/target/classes/com/voya/training:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 1292 Mar 11 15:07 Calculator.class
+-rw-r--r-- 1 mohamed.ahmed 1049089  681 Mar 11 15:07 StudentDetails.class
+
+../javademo/JUnitDemos/target/test-classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:07 com/
+
+../javademo/JUnitDemos/target/test-classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:07 voya/
+
+../javademo/JUnitDemos/target/test-classes/com/voya:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:07 sample/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:07 studtestcases/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:07 testcases/
+
+../javademo/JUnitDemos/target/test-classes/com/voya/sample:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 738 Mar 11 15:13 AllTests.class
+
+../javademo/JUnitDemos/target/test-classes/com/voya/studtestcases:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1528 Mar 11 17:31 StudentTest.class
+
+../javademo/JUnitDemos/target/test-classes/com/voya/testcases:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2884 Mar 11 15:07 CalculatorTest.class
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 11 15:07 greet/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 11 15:07 trail/
+
+../javademo/JUnitDemos/target/test-classes/com/voya/testcases/greet:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1105 Mar 11 15:07 GreetTest.class
+
+../javademo/JUnitDemos/target/test-classes/com/voya/testcases/trail:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1877 Mar 11 15:07 CheckTest.class
+
+../javademo/MavenDemo:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1494 Mar 11 10:51 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar  7 10:53 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar  7 14:53 target/
+
+../javademo/MavenDemo/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 10:53 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 10:53 test/
+
+../javademo/MavenDemo/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 10:53 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 10:53 resources/
+
+../javademo/MavenDemo/src/main/java:
+total 0
+
+../javademo/MavenDemo/src/main/resources:
+total 0
+
+../javademo/MavenDemo/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 10:53 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 10:53 resources/
+
+../javademo/MavenDemo/src/test/java:
+total 0
+
+../javademo/MavenDemo/src/test/resources:
+total 0
+
+../javademo/MavenDemo/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:51 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar  7 14:53 test-classes/
+
+../javademo/MavenDemo/target/classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:51 META-INF/
+
+../javademo/MavenDemo/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 113 Mar 11 10:51 MANIFEST.MF
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 11 10:51 maven/
+
+../javademo/MavenDemo/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:51 com.voya.dist/
+
+../javademo/MavenDemo/target/classes/META-INF/maven/com.voya.dist:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:51 MavenDemo/
+
+../javademo/MavenDemo/target/classes/META-INF/maven/com.voya.dist/MavenDemo:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  250 Mar 11 10:51 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 1494 Mar 11 10:51 pom.xml
+
+../javademo/MavenDemo/target/test-classes:
+total 0
+
+../javademo/MockitoDemos:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2259 Mar 11 16:45 pom.xml
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 11 15:47 src/
+drwxr-xr-x 1 mohamed.ahmed 1049089    0 Mar 11 15:47 target/
+
+../javademo/MockitoDemos/src:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:47 main/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:47 test/
+
+../javademo/MockitoDemos/src/main:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:55 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:47 resources/
+
+../javademo/MockitoDemos/src/main/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:55 com/
+
+../javademo/MockitoDemos/src/main/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:22 bookapp/
+
+../javademo/MockitoDemos/src/main/java/com/bookapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:22 exception/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:57 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:21 service/
+
+../javademo/MockitoDemos/src/main/java/com/bookapp/exception:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 322 Mar 11 18:04 BookNotFoundException.java
+
+../javademo/MockitoDemos/src/main/java/com/bookapp/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1617 Mar 11 17:17 Book.java
+
+../javademo/MockitoDemos/src/main/java/com/bookapp/service:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  240 Mar 11 17:17 IBookService.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 1438 Mar 11 18:04 OrderDetails.java
+
+../javademo/MockitoDemos/src/main/resources:
+total 0
+
+../javademo/MockitoDemos/src/test:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:33 java/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 15:47 resources/
+
+../javademo/MockitoDemos/src/test/java:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:33 com/
+
+../javademo/MockitoDemos/src/test/java/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:33 bookapp/
+
+../javademo/MockitoDemos/src/test/java/com/bookapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:46 testcases/
+
+../javademo/MockitoDemos/src/test/java/com/bookapp/testcases:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 2524 Mar 11 18:04 OrderDetailsTest.java
+
+../javademo/MockitoDemos/src/test/resources:
+total 0
+
+../javademo/MockitoDemos/target:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:45 classes/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:45 test-classes/
+
+../javademo/MockitoDemos/target/classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:45 META-INF/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:45 com/
+
+../javademo/MockitoDemos/target/classes/META-INF:
+total 1
+-rw-r--r-- 1 mohamed.ahmed 1049089 113 Mar 11 16:45 MANIFEST.MF
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 11 16:45 maven/
+
+../javademo/MockitoDemos/target/classes/META-INF/maven:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:45 com.voya.dist/
+
+../javademo/MockitoDemos/target/classes/META-INF/maven/com.voya.dist:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:45 MockitoDemos/
+
+../javademo/MockitoDemos/target/classes/META-INF/maven/com.voya.dist/MockitoDemos:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  259 Mar 11 16:45 pom.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089 2259 Mar 11 16:45 pom.xml
+
+../javademo/MockitoDemos/target/classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:45 bookapp/
+
+../javademo/MockitoDemos/target/classes/com/bookapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:45 exception/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:45 model/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:45 service/
+
+../javademo/MockitoDemos/target/classes/com/bookapp/exception:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 487 Mar 11 18:04 BookNotFoundException.class
+
+../javademo/MockitoDemos/target/classes/com/bookapp/model:
+total 4
+-rw-r--r-- 1 mohamed.ahmed 1049089 1864 Mar 11 17:17 Book.class
+
+../javademo/MockitoDemos/target/classes/com/bookapp/service:
+total 5
+-rw-r--r-- 1 mohamed.ahmed 1049089  422 Mar 11 17:17 IBookService.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 3148 Mar 11 18:04 OrderDetails.class
+
+../javademo/MockitoDemos/target/test-classes:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:45 com/
+
+../javademo/MockitoDemos/target/test-classes/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:45 bookapp/
+
+../javademo/MockitoDemos/target/test-classes/com/bookapp:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 16:46 testcases/
+
+../javademo/MockitoDemos/target/test-classes/com/bookapp/testcases:
+total 8
+-rw-r--r-- 1 mohamed.ahmed 1049089 4273 Mar 11 18:04 OrderDetailsTest.class
+
+../javademo/OOpsDemos:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:46 bin/
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Feb 28 17:30 src/
+
+../javademo/OOpsDemos/bin:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089   0 Mar 11 10:46 com/
+-rw-r--r-- 1 mohamed.ahmed 1049089 148 Mar 11 10:46 module-info.class
+
+../javademo/OOpsDemos/bin/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:46 oops/
+
+../javademo/OOpsDemos/bin/com/oops:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 11 10:46 basics/
+
+../javademo/OOpsDemos/bin/com/oops/basics:
+total 12
+-rw-r--r-- 1 mohamed.ahmed 1049089 1246 Mar 11 10:46 Employee.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1107 Mar 11 10:46 Empmain.class
+-rw-r--r-- 1 mohamed.ahmed 1049089 1043 Mar 11 10:46 Student.class
+
+../javademo/OOpsDemos/src:
+total 1
+drwxr-xr-x 1 mohamed.ahmed 1049089  0 Feb 28 17:30 com/
+-rw-r--r-- 1 mohamed.ahmed 1049089 21 Feb 28 17:28 module-info.java
+
+../javademo/OOpsDemos/src/com:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Feb 28 17:30 oops/
+
+../javademo/OOpsDemos/src/com/oops:
+total 0
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Feb 29 09:16 basics/
+
+../javademo/OOpsDemos/src/com/oops/basics:
+total 6
+-rw-r--r-- 1 mohamed.ahmed 1049089 696 Feb 28 17:50 Employee.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 375 Feb 29 09:22 Empmain.java
+-rw-r--r-- 1 mohamed.ahmed 1049089 452 Feb 29 09:22 Student.java
+
+../javademo/Servers:
+total 4
+drwxr-xr-x 1 mohamed.ahmed 1049089 0 Mar 13 10:48 Tomcat v9.0 Server at localhost-config/
+
+../javademo/Servers/Tomcat v9.0 Server at localhost-config:
+total 212
+-rw-r--r-- 1 mohamed.ahmed 1049089  12954 Mar 13 10:48 catalina.policy
+-rw-r--r-- 1 mohamed.ahmed 1049089   7630 Mar 13 10:48 catalina.properties
+-rw-r--r-- 1 mohamed.ahmed 1049089   1398 Mar 13 10:48 context.xml
+-rw-r--r-- 1 mohamed.ahmed 1049089   7672 Mar 13 10:48 server.xml
+-rw-r--r-- 1 mohamed.ahmed 1049089   2713 Mar 13 10:48 tomcat-users.xml
+-rw-r--r-- 1 mohamed.ahmed 1049089 172944 Mar 13 10:48 web.xml

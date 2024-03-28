@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <form action="final.html" method="post">
+        <table border="2">
+        <tr>
+        <th>Enter Name</th><td><input type="text" name="username" placeholder="Enter Name"></td></tr>
+        <br>
+        <tr><th>Enter Password</th><td><input type="password" name="password"><br></td></tr>
+        <tr><th>Gender</th>
+       <td><input type="radio" name="gender" value="male" checked="checked">male
+       <input type="radio" name="gender" value="female">female<br></td></tr>
+       <tr> <th>Select Course</th>
+        <td><select name="course" multiple size="3">
+            <option value="java">java</option>
+            <option value="spring">spring</option>
+            <option value="angular">angular</option>
+            <option value="node">node</option>
+        </select></td>
+        <br></tr>
+       <tr><th> Hobbies</th>
+        <td><input type="checkbox" name="hobby" value="dance">dance
+        <input type="checkbox" name="hobby" value="music">music
+        <input type="checkbox" name="hobby" value="sports">sports
+        <input type="checkbox" name="hobby" value="reading">reading</td>
+        <br></tr>
+       <tr><th> Comments</th><td><textarea  rows="20" columns="20">share your thoughts</textarea></td></tr>
+        <tr><td><input type="submit" value="enter details">
+        <input type="reset" value="reset"></td></tr>
+    </form>
+    </table>
+</body>
+</html>

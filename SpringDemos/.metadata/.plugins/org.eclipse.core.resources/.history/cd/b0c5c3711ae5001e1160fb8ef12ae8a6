@@ -1,0 +1,19 @@
+package com.spring.auto;
+
+public class ShapeFactory {
+	Shape shape;
+
+	public Shape getShape() {
+		return shape;
+	}
+
+	public void setShape(Shape shape) {
+		this.shape = shape;
+	}
+	void printArea(int x,int y) {
+		System.out.println("printing area");
+		shape.area(x,y);
+	}
+	
+
+}

@@ -1,0 +1,11 @@
+package com.spring.auto;
+
+public class Square implements  Shape {
+
+	@Override
+	public void area(int x, int y) {
+		System.out.println("square:"+x*x);
+		
+	}
+
+}

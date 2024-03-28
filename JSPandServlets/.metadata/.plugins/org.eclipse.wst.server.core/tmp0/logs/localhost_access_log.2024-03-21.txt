@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [21/Mar/2024:09:45:10 +0530] "GET /spring-mvc-doctorapp/search?choice=dentist HTTP/1.1" 200 481
+0:0:0:0:0:0:0:1 - - [21/Mar/2024:09:45:17 +0530] "GET /spring-mvc-doctorapp/search?choice= HTTP/1.1" 500 287
+0:0:0:0:0:0:0:1 - - [21/Mar/2024:09:45:32 +0530] "GET /spring-mvc-doctorapp/search?choice=neuroloogist HTTP/1.1" 500 287
+0:0:0:0:0:0:0:1 - - [21/Mar/2024:09:45:46 +0530] "GET /spring-mvc-doctorapp/search?choice=Neuroloogist HTTP/1.1" 500 287
+0:0:0:0:0:0:0:1 - - [21/Mar/2024:09:46:02 +0530] "GET /spring-mvc-doctorapp/search?choice=Neurologist HTTP/1.1" 200 489
